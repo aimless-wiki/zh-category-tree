@@ -1,0 +1,45 @@
+
+name: "Update"
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "47 19 * * *"
+
+env:
+  WIKI_LANGUAGE: zh
+
+jobs:
+  update_data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v3
+
+      - uses: webfactory/ssh-agent@v0.8.0
+        with:
+          ssh-private-key: ${{ secrets.UTILS_KEY }}
+
+      - name: Clone utilities
+        run: |
+          git config --global user.name "aimless-wiki"
+          git config --global user.email "aimless-wiki@users.noreply.github.com"
+          git clone git@github.com:aimless-wiki/category-tree-utils.git
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r ./category-tree-utils/requirements.txt
+
+      - name: Run data collection, saving
+        run: |
+          python ./category-tree-utils/main.py $WIKI_LANGUAGE --dir .
+
+      - name: Push changes
+        run: |
+          git add category_index.txt meta.json edges
+          git commit -m "Automated data deployment"
+          git push

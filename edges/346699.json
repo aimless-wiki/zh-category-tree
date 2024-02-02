@@ -1,1 +1,1 @@
-{"name": "Mega_Drive游戏", "id": 346699, "predecessors": [{"name": "世嘉遊戲機", "id": 3999609}], "successors": []}
+{"name": "Mega_Drive游戏", "id": 346699, "predecessors": [{"name": "操作系统", "id": 33605}, {"name": "家用游戏机", "id": 70166}, {"name": "日本企業集團", "id": 489840}], "successors": []}

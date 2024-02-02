@@ -1,1 +1,1 @@
-{"name": "英特爾產品", "id": 3524630, "predecessors": [{"name": "英特爾", "id": 324531}], "successors": [{"name": "X86架構", "id": 133497}, {"name": "英特尔处理器", "id": 488695}]}
+{"name": "英特爾產品", "id": 3524630, "predecessors": [{"name": "组织", "id": 42377}, {"name": "美国制造公司", "id": 1695164}], "successors": [{"name": "X86架構", "id": 133497}]}

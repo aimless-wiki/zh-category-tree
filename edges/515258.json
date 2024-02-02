@@ -1,0 +1,1 @@
+{"name": "链路协议", "id": 515258, "predecessors": [{"name": "网际协议", "id": 513850}, {"name": "网络协议", "id": 58733}], "successors": [{"name": "Wi-Fi", "id": 373761}, {"name": "乙太網路", "id": 514113}]}

@@ -1,1 +1,1 @@
-{"name": "卡通頻道電視節目", "id": 3897396, "predecessors": [{"name": "卡通頻道", "id": 328171}], "successors": [{"name": "Ben_10", "id": 1601300}, {"name": "湯姆與謝利", "id": 4100415}, {"name": "Adult_Swim原創節目", "id": 6085399}]}
+{"name": "卡通頻道電視節目", "id": 3897396, "predecessors": [{"name": "兒童電視節目", "id": 629123}, {"name": "華納兄弟探索", "id": 440905}], "successors": []}

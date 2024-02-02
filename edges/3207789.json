@@ -1,1 +1,1 @@
-{"name": "水墨畫家", "id": 3207789, "predecessors": [{"name": "水墨畫", "id": 943210}, {"name": "繪畫", "id": 73001}], "successors": []}
+{"name": "水墨畫家", "id": 3207789, "predecessors": [{"name": "繪畫", "id": 73001}, {"name": "总览", "id": 6349075}], "successors": []}

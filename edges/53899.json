@@ -1,0 +1,1 @@
+{"name": "網頁瀏覽器", "id": 53899, "predecessors": [{"name": "HTTP", "id": 369871}, {"name": "应用软件", "id": 322335}], "successors": [{"name": "Internet_Explorer", "id": 552326}, {"name": "自由网页浏览器", "id": 4124673}]}

@@ -1,1 +1,1 @@
-{"name": "屯馬綫車站", "id": 7538797, "predecessors": [{"name": "屯馬綫", "id": 7538802}, {"name": "港鐵車站", "id": 650708}], "successors": []}
+{"name": "屯馬綫車站", "id": 7538797, "predecessors": [{"name": "鐵路車站", "id": 81216}, {"name": "港鐵", "id": 650711}], "successors": []}

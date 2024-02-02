@@ -1,1 +1,1 @@
-{"name": "實驗設計", "id": 1195974, "predecessors": [{"name": "统计学", "id": 45782}], "successors": []}
+{"name": "實驗設計", "id": 1195974, "predecessors": [{"name": "科學方法", "id": 188563}, {"name": "统计学", "id": 45782}, {"name": "科学史", "id": 83469}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "虛構教師", "id": 1633842, "predecessors": [{"name": "教师", "id": 1556283}], "successors": [{"name": "虛構校長", "id": 1580774}]}
+{"name": "虛構教師", "id": 1633842, "predecessors": [{"name": "僱傭", "id": 769801}, {"name": "人類發展成長", "id": 58238}], "successors": []}

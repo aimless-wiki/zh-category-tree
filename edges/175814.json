@@ -1,1 +1,1 @@
-{"name": "法国机场", "id": 175814, "predecessors": [{"name": "欧盟成员国", "id": 35610}, {"name": "法國文化", "id": 56566}, {"name": "法國經濟", "id": 1183530}], "successors": []}
+{"name": "法国机场", "id": 175814, "predecessors": [{"name": "航空", "id": 81361}, {"name": "文化", "id": 42322}, {"name": "交通", "id": 44301}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "豆制品", "id": 169190, "predecessors": [{"name": "豆類", "id": 4770826}], "successors": [{"name": "粉絲", "id": 3767340}, {"name": "大豆类食品", "id": 8111696}]}
+{"name": "豆制品", "id": 169190, "predecessors": [{"name": "飲食", "id": 66265}, {"name": "可食用坚果与种子", "id": 1687183}], "successors": []}

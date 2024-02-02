@@ -1,1 +1,1 @@
-{"name": "日本國有鐵道列車", "id": 1300000, "predecessors": [{"name": "日本國有鐵道", "id": 307252}], "successors": [{"name": "日本国有铁道指定颜色", "id": 8487430}]}
+{"name": "日本國有鐵道列車", "id": 1300000, "predecessors": [{"name": "日本鐵路", "id": 219206}, {"name": "产业", "id": 58086}], "successors": []}

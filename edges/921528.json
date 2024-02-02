@@ -1,1 +1,1 @@
-{"name": "农业机械", "id": 921528, "predecessors": [{"name": "各类革命", "id": 1662359}], "successors": [{"name": "拖拉機", "id": 3844198}]}
+{"name": "农业机械", "id": 921528, "predecessors": [{"name": "机械", "id": 321815}, {"name": "農具", "id": 518307}, {"name": "技術史", "id": 790479}, {"name": "农业", "id": 56002}], "successors": []}

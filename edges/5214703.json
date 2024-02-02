@@ -1,1 +1,1 @@
-{"name": "拉脫維亞鐵路車站", "id": 5214703, "predecessors": [{"name": "俄罗斯帝国继承国", "id": 7060960}], "successors": []}
+{"name": "拉脫維亞鐵路車站", "id": 5214703, "predecessors": [{"name": "交通", "id": 44301}, {"name": "公共交通", "id": 80881}, {"name": "欧洲铁路", "id": 1731958}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "加拿大海湾", "id": 805351, "predecessors": [{"name": "加拿大地理", "id": 56972}], "successors": [{"name": "哈德遜灣", "id": 3221445}]}
+{"name": "加拿大海湾", "id": 805351, "predecessors": [{"name": "太平洋海灣", "id": 1670691}, {"name": "大西洋", "id": 120442}, {"name": "海洋", "id": 46925}, {"name": "海湾", "id": 235029}, {"name": "水體", "id": 77215}], "successors": []}

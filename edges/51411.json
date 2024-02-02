@@ -1,0 +1,1 @@
+{"name": "Linux", "id": 51411, "predecessors": [{"name": "自由作業系統", "id": 456695}, {"name": "Unix", "id": 93929}], "successors": [{"name": "Linux發行版", "id": 383288}, {"name": "Linux軟件", "id": 766194}, {"name": "嵌入式Linux", "id": 1155461}, {"name": "Linux内核功能", "id": 4029068}]}

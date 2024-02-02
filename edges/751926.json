@@ -1,1 +1,1 @@
-{"name": "貨幣單位", "id": 751926, "predecessors": [{"name": "计量单位", "id": 533068}], "successors": []}
+{"name": "貨幣單位", "id": 751926, "predecessors": [{"name": "计量单位", "id": 533068}, {"name": "货币", "id": 51160}, {"name": "国际金融", "id": 168534}], "successors": [{"name": "镑", "id": 4652392}, {"name": "50分硬币", "id": 4707681}]}

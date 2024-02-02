@@ -1,1 +1,1 @@
-{"name": "飛彈防禦", "id": 384696, "predecessors": [{"name": "军事航空", "id": 1457521}], "successors": []}
+{"name": "飛彈防禦", "id": 384696, "predecessors": [{"name": "空气动力学", "id": 494419}, {"name": "军事", "id": 450358}], "successors": []}

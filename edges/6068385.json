@@ -1,1 +1,1 @@
-{"name": "中国家猪品种", "id": 6068385, "predecessors": [{"name": "中国经济", "id": 66081}], "successors": [{"name": "福建家猪品种", "id": 6068388}]}
+{"name": "中国家猪品种", "id": 6068385, "predecessors": [{"name": "猪品种", "id": 1000630}, {"name": "农业", "id": 56002}], "successors": []}

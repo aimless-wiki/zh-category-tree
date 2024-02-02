@@ -1,1 +1,1 @@
-{"name": "个人电脑", "id": 190911, "predecessors": [{"name": "计算机历史", "id": 450836}], "successors": [{"name": "FM_Towns遊戲", "id": 3573717}]}
+{"name": "个人电脑", "id": 190911, "predecessors": [{"name": "办公设备", "id": 58299}, {"name": "计算机历史", "id": 450836}, {"name": "消費電子產品", "id": 196406}], "successors": [{"name": "筆記型電腦", "id": 284849}, {"name": "平板電腦", "id": 1196888}, {"name": "FM_Towns遊戲", "id": 3573717}]}

@@ -1,1 +1,1 @@
-{"name": "渥太華輕鐵", "id": 5567271, "predecessors": [{"name": "加拿大经济", "id": 332443}, {"name": "渥太華交通", "id": 3667626}], "successors": []}
+{"name": "渥太華輕鐵", "id": 5567271, "predecessors": [{"name": "公共交通", "id": 80881}, {"name": "加拿大城市", "id": 56715}], "successors": []}

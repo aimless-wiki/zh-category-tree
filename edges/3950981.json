@@ -1,1 +1,1 @@
-{"name": "视频网站", "id": 3950981, "predecessors": [{"name": "網站", "id": 52951}, {"name": "視訊", "id": 4461462}], "successors": [{"name": "视频分享网站", "id": 1007130}, {"name": "Bilibili", "id": 5395925}, {"name": "Vidol", "id": 5684162}]}
+{"name": "视频网站", "id": 3950981, "predecessors": [{"name": "網站", "id": 52951}, {"name": "數位媒體", "id": 736067}], "successors": [{"name": "视频分享网站", "id": 1007130}, {"name": "Bilibili", "id": 5395925}, {"name": "网络红人", "id": 1816706}, {"name": "Bilibili_UP主", "id": 7445608}]}

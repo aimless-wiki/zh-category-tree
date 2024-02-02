@@ -1,1 +1,1 @@
-{"name": "香港輕鐵車站", "id": 668483, "predecessors": [{"name": "港鐵車站", "id": 650708}, {"name": "香港輕鐵", "id": 668544}], "successors": []}
+{"name": "香港輕鐵車站", "id": 668483, "predecessors": [{"name": "鐵路車站", "id": 81216}, {"name": "公共交通", "id": 80881}], "successors": []}

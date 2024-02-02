@@ -1,1 +1,1 @@
-{"name": "染色着色剂", "id": 1638049, "predecessors": [{"name": "染料", "id": 85185}], "successors": []}
+{"name": "染色着色剂", "id": 1638049, "predecessors": [{"name": "染料", "id": 85185}, {"name": "微生物学", "id": 44407}], "successors": []}

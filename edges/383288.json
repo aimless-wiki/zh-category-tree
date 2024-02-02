@@ -1,0 +1,1 @@
+{"name": "Linux發行版", "id": 383288, "predecessors": [{"name": "Linux", "id": 51411}], "successors": [{"name": "Debian", "id": 100376}, {"name": "嵌入式Linux發行版", "id": 2766766}, {"name": "不采用systemd的Linux发行版", "id": 7261591}]}

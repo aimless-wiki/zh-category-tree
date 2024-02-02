@@ -1,1 +1,1 @@
-{"name": "法國起司", "id": 7429041, "predecessors": [{"name": "法国食品", "id": 273945}], "successors": []}
+{"name": "法國起司", "id": 7429041, "predecessors": [{"name": "法國飲食", "id": 1019685}, {"name": "飲食", "id": 66265}], "successors": []}

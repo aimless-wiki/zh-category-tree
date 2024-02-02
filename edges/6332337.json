@@ -1,1 +1,1 @@
-{"name": "Netflix使用者", "id": 6332337, "predecessors": [{"name": "推荐系统", "id": 5232169}], "successors": []}
+{"name": "Netflix使用者", "id": 6332337, "predecessors": [{"name": "網路電視頻道", "id": 1201823}, {"name": "维基人", "id": 93512}], "successors": []}

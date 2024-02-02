@@ -1,1 +1,1 @@
-{"name": "移动技术", "id": 6201522, "predecessors": [{"name": "無線", "id": 1219244}], "successors": [{"name": "移動安全", "id": 7684870}]}
+{"name": "移动技术", "id": 6201522, "predecessors": [{"name": "广播", "id": 65119}, {"name": "总览", "id": 6349075}], "successors": [{"name": "平板手机", "id": 3654093}, {"name": "衛星導航系統", "id": 204491}]}

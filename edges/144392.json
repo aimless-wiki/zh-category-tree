@@ -1,1 +1,1 @@
-{"name": "电子邮件客户端", "id": 144392, "predecessors": [{"name": "电子邮件", "id": 64514}, {"name": "计算机科学", "id": 326427}], "successors": []}
+{"name": "电子邮件客户端", "id": 144392, "predecessors": [{"name": "电子邮件", "id": 64514}, {"name": "软件", "id": 322354}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "直升機事故", "id": 3730576, "predecessors": [{"name": "交通", "id": 44301}], "successors": []}
+{"name": "直升機事故", "id": 3730576, "predecessors": [{"name": "交通", "id": 44301}], "successors": [{"name": "直升機事故身亡者", "id": 3730573}]}

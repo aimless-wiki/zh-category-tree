@@ -1,1 +1,1 @@
-{"name": "线上旅行社", "id": 5867714, "predecessors": [{"name": "旅行網站", "id": 4120853}], "successors": [{"name": "携程", "id": 6297768}]}
+{"name": "线上旅行社", "id": 5867714, "predecessors": [{"name": "企业类型", "id": 657151}, {"name": "应用软件", "id": 322335}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "TBS動畫", "id": 650212, "predecessors": [{"name": "日本電視動畫", "id": 295829}, {"name": "电视", "id": 47053}], "successors": [{"name": "TBS動畫主題曲", "id": 2819216}]}
+{"name": "TBS動畫", "id": 650212, "predecessors": [{"name": "电视", "id": 47053}, {"name": "動畫", "id": 64212}], "successors": [{"name": "TBS動畫主題曲", "id": 2819216}]}

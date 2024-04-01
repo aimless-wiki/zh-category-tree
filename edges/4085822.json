@@ -1,1 +1,1 @@
-{"name": "日本魚類", "id": 4085822, "predecessors": [{"name": "環境", "id": 65994}, {"name": "动物", "id": 32861}, {"name": "日本動物", "id": 407642}], "successors": []}
+{"name": "日本魚類", "id": 4085822, "predecessors": [{"name": "水", "id": 80602}, {"name": "維基百科管理", "id": 501839}, {"name": "动物", "id": 32861}, {"name": "日本動物", "id": 407642}], "successors": []}

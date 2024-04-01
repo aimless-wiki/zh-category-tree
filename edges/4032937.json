@@ -1,1 +1,1 @@
-{"name": "短兵器", "id": 4032937, "predecessors": [{"name": "冷兵器", "id": 81508}, {"name": "武器", "id": 39124}], "successors": [{"name": "刀", "id": 588107}, {"name": "刀劍", "id": 1321319}]}
+{"name": "短兵器", "id": 4032937, "predecessors": [{"name": "冷兵器", "id": 81508}, {"name": "武器", "id": 39124}], "successors": [{"name": "刀", "id": 588107}]}

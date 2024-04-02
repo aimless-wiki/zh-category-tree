@@ -1,1 +1,1 @@
-{"name": "鐵路技術", "id": 5021974, "predecessors": [{"name": "交通", "id": 44301}, {"name": "总览", "id": 6349075}], "successors": []}
+{"name": "鐵路技術", "id": 5021974, "predecessors": [{"name": "交通", "id": 44301}, {"name": "总览", "id": 6349075}], "successors": [{"name": "鐵路車輛工學", "id": 928685}]}

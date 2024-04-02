@@ -1,1 +1,1 @@
-{"name": "幹細胞", "id": 815802, "predecessors": [{"name": "生物技術", "id": 512665}], "successors": []}
+{"name": "幹細胞", "id": 815802, "predecessors": [{"name": "生物技術", "id": 512665}, {"name": "细胞生物学", "id": 117437}], "successors": []}

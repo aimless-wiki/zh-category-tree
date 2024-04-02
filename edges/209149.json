@@ -1,1 +1,1 @@
-{"name": "台灣湖泊", "id": 209149, "predecessors": [{"name": "水體", "id": 77215}, {"name": "水", "id": 80602}, {"name": "地图学", "id": 132255}], "successors": [{"name": "臺灣水庫", "id": 316764}]}
+{"name": "台灣湖泊", "id": 209149, "predecessors": [{"name": "水體", "id": 77215}, {"name": "環境", "id": 65994}, {"name": "地图学", "id": 132255}], "successors": [{"name": "臺灣水庫", "id": 316764}]}

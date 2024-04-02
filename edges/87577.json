@@ -1,1 +1,1 @@
-{"name": "媒体播放器", "id": 87577, "predecessors": [{"name": "大眾媒體", "id": 58343}, {"name": "软件", "id": 322354}], "successors": []}
+{"name": "媒体播放器", "id": 87577, "predecessors": [{"name": "多媒体", "id": 87578}, {"name": "软件", "id": 322354}], "successors": []}

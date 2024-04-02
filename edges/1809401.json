@@ -1,1 +1,1 @@
-{"name": "耳", "id": 1809401, "predecessors": [{"name": "聽覺系統", "id": 285081}, {"name": "器官", "id": 211796}], "successors": []}
+{"name": "耳", "id": 1809401, "predecessors": [{"name": "聽覺系統", "id": 285081}, {"name": "頭頸", "id": 726386}, {"name": "器官", "id": 211796}], "successors": []}

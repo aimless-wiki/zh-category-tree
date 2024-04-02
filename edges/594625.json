@@ -1,1 +1,1 @@
-{"name": "城巴路線", "id": 594625, "predecessors": [{"name": "公共交通", "id": 80881}], "successors": [{"name": "已取消城巴路線", "id": 738055}]}
+{"name": "城巴路線", "id": 594625, "predecessors": [{"name": "公共交通", "id": 80881}], "successors": [{"name": "已取消城巴路線", "id": 738055}, {"name": "城巴特別巴士路線", "id": 803571}]}

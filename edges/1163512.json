@@ -1,1 +1,1 @@
-{"name": "细胞骨架", "id": 1163512, "predecessors": [{"name": "蛋白质", "id": 43818}], "successors": []}
+{"name": "细胞骨架", "id": 1163512, "predecessors": [{"name": "细胞解剖学", "id": 540643}, {"name": "蛋白质", "id": 43818}], "successors": []}

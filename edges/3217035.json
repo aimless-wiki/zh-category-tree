@@ -1,1 +1,1 @@
-{"name": "反潛機", "id": 3217035, "predecessors": [{"name": "海戰", "id": 756721}], "successors": []}
+{"name": "反潛機", "id": 3217035, "predecessors": [{"name": "空气动力学", "id": 494419}, {"name": "海戰", "id": 756721}], "successors": []}

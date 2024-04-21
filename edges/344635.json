@@ -1,1 +1,1 @@
-{"name": "物流", "id": 344635, "predecessors": [{"name": "企業管理", "id": 413429}, {"name": "商業", "id": 64628}, {"name": "交通", "id": 44301}, {"name": "環境", "id": 65994}], "successors": [{"name": "物流公司", "id": 381452}]}
+{"name": "物流", "id": 344635, "predecessors": [{"name": "企業管理", "id": 413429}, {"name": "商業", "id": 64628}, {"name": "環境", "id": 65994}], "successors": [{"name": "物流公司", "id": 381452}]}

@@ -1,1 +1,1 @@
-{"name": "汽車零件供應商", "id": 1155440, "predecessors": [{"name": "製造業", "id": 1159067}], "successors": []}
+{"name": "汽車零件供應商", "id": 1155440, "predecessors": [{"name": "汽车部件", "id": 556519}, {"name": "製造業", "id": 1159067}], "successors": []}

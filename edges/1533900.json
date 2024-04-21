@@ -1,1 +1,1 @@
-{"name": "广佛地铁车站", "id": 1533900, "predecessors": [{"name": "鐵路車站", "id": 81216}, {"name": "中国历史", "id": 33589}], "successors": []}
+{"name": "广佛地铁车站", "id": 1533900, "predecessors": [{"name": "城市轨道交通", "id": 281040}, {"name": "中国历史", "id": 33589}], "successors": []}

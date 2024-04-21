@@ -1,1 +1,1 @@
-{"name": "民用航空", "id": 1353826, "predecessors": [{"name": "航空", "id": 81361}], "successors": []}
+{"name": "民用航空", "id": 1353826, "predecessors": [{"name": "航空", "id": 81361}], "successors": [{"name": "干线客机", "id": 98460}, {"name": "支线客机", "id": 98461}, {"name": "波音", "id": 545222}, {"name": "貨機", "id": 3573146}]}

@@ -1,1 +1,1 @@
-{"name": "海鮮", "id": 270384, "predecessors": [{"name": "肉類", "id": 270375}, {"name": "演化生物學", "id": 486399}], "successors": [{"name": "食用鱼", "id": 320442}, {"name": "食用甲殼類", "id": 817768}]}
+{"name": "海鮮", "id": 270384, "predecessors": [{"name": "演化生物學", "id": 486399}], "successors": [{"name": "食用鱼", "id": 320442}, {"name": "食用甲殼類", "id": 817768}]}

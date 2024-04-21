@@ -1,1 +1,1 @@
-{"name": "虚构飞行汽车", "id": 7718211, "predecessors": [{"name": "交通", "id": 44301}], "successors": []}
+{"name": "虚构飞行汽车", "id": 7718211, "predecessors": [{"name": "航空器类型", "id": 5494237}, {"name": "交通", "id": 44301}], "successors": []}

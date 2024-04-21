@@ -1,1 +1,1 @@
-{"name": "圣母大学教师", "id": 4443000, "predecessors": [{"name": "美国大学教师", "id": 5041260}], "successors": []}
+{"name": "圣母大学教师", "id": 4443000, "predecessors": [{"name": "教育", "id": 51575}, {"name": "称谓", "id": 78052}], "successors": []}

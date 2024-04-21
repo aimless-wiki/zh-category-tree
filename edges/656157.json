@@ -1,1 +1,1 @@
-{"name": "美術材料", "id": 656157, "predecessors": [{"name": "社会科学", "id": 41504}, {"name": "材料", "id": 58876}], "successors": [{"name": "染料", "id": 85185}]}
+{"name": "美術材料", "id": 656157, "predecessors": [{"name": "社会科学", "id": 41504}, {"name": "文具", "id": 69059}, {"name": "材料", "id": 58876}], "successors": [{"name": "染料", "id": 85185}]}

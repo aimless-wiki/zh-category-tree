@@ -1,1 +1,1 @@
-{"name": "台北捷運路線", "id": 265597, "predecessors": [{"name": "台北捷運", "id": 42450}, {"name": "鐵路", "id": 485584}], "successors": []}
+{"name": "台北捷運路線", "id": 265597, "predecessors": [{"name": "台北捷運", "id": 42450}, {"name": "交通", "id": 44301}], "successors": []}

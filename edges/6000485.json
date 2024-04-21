@@ -1,1 +1,1 @@
-{"name": "中国肿瘤学家", "id": 6000485, "predecessors": [{"name": "中国医生", "id": 545274}], "successors": []}
+{"name": "中国肿瘤学家", "id": 6000485, "predecessors": [{"name": "中国医学家", "id": 44061}, {"name": "医学专科", "id": 1645188}], "successors": []}

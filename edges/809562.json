@@ -1,1 +1,1 @@
-{"name": "高清頻道", "id": 809562, "predecessors": [{"name": "高清晰度电视", "id": 502926}], "successors": []}
+{"name": "高清頻道", "id": 809562, "predecessors": [{"name": "高清晰度电视", "id": 502926}, {"name": "广播", "id": 65119}], "successors": []}

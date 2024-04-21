@@ -1,1 +1,1 @@
-{"name": "福建食品", "id": 395364, "predecessors": [{"name": "中国食品", "id": 57169}, {"name": "名数6", "id": 1558892}], "successors": [{"name": "福建小吃", "id": 395363}]}
+{"name": "福建食品", "id": 395364, "predecessors": [{"name": "中国食品", "id": 57169}, {"name": "中国文化", "id": 33600}], "successors": [{"name": "福建小吃", "id": 395363}]}

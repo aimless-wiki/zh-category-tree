@@ -1,1 +1,1 @@
-{"name": "遗传病", "id": 115888, "predecessors": [{"name": "疾病", "id": 52452}, {"name": "DNA", "id": 3513588}, {"name": "医学专科", "id": 1645188}], "successors": []}
+{"name": "遗传病", "id": 115888, "predecessors": [{"name": "疾病", "id": 52452}, {"name": "DNA", "id": 3513588}, {"name": "医学专科", "id": 1645188}], "successors": [{"name": "常染色体隐性遗传疾病", "id": 1523843}]}

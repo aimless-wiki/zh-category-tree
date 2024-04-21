@@ -1,1 +1,1 @@
-{"name": "近畿日本鐵道路線", "id": 3169937, "predecessors": [{"name": "日本鐵路公司", "id": 489668}, {"name": "交通", "id": 44301}], "successors": []}
+{"name": "近畿日本鐵道路線", "id": 3169937, "predecessors": [{"name": "近畿地方鐵路路線", "id": 1305523}, {"name": "交通", "id": 44301}, {"name": "总览", "id": 6349075}], "successors": []}

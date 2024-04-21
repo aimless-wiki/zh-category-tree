@@ -1,1 +1,1 @@
-{"name": "康乃爾大學教師", "id": 1173945, "predecessors": [{"name": "美国大学教师", "id": 5041260}], "successors": [{"name": "康乃尔大学教授", "id": 3676367}]}
+{"name": "康乃爾大學教師", "id": 1173945, "predecessors": [{"name": "教育", "id": 51575}, {"name": "学校", "id": 41486}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "四人乐团", "id": 8413461, "predecessors": [{"name": "四人组", "id": 7088598}], "successors": []}
+{"name": "四人乐团", "id": 8413461, "predecessors": [{"name": "四人组", "id": 7088598}, {"name": "组织", "id": 42377}], "successors": [{"name": "Beyond音樂專輯", "id": 918851}]}

@@ -1,1 +1,1 @@
-{"name": "血清素受体激动剂", "id": 1556626, "predecessors": [{"name": "药物", "id": 50014}, {"name": "细胞信号传导", "id": 1521013}], "successors": []}
+{"name": "血清素受体激动剂", "id": 1556626, "predecessors": [{"name": "药物", "id": 50014}, {"name": "神经递质", "id": 422141}], "successors": []}

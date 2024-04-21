@@ -1,1 +1,1 @@
-{"name": "日本刀", "id": 353948, "predecessors": [{"name": "刀", "id": 588107}, {"name": "日本傳統工藝", "id": 3511073}, {"name": "日本军事装备", "id": 1859017}, {"name": "冷兵器", "id": 81508}], "successors": []}
+{"name": "日本刀", "id": 353948, "predecessors": [{"name": "军事学", "id": 805048}, {"name": "武术", "id": 72610}, {"name": "政府", "id": 44305}], "successors": []}

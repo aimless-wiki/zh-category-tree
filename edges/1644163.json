@@ -1,1 +1,1 @@
-{"name": "热带病", "id": 1644163, "predecessors": [{"name": "传染病", "id": 44408}, {"name": "氣候", "id": 71681}], "successors": []}
+{"name": "热带病", "id": 1644163, "predecessors": [{"name": "氣候", "id": 71681}], "successors": []}

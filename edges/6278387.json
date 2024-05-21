@@ -1,1 +1,1 @@
-{"name": "PRODUCE_101", "id": 6278387, "predecessors": [{"name": "Mnet", "id": 5611717}, {"name": "韓國綜藝節目", "id": 1639461}], "successors": []}
+{"name": "PRODUCE_101", "id": 6278387, "predecessors": [{"name": "韓國綜藝節目", "id": 1639461}, {"name": "韩国音乐比赛", "id": 5522781}, {"name": "韓國電視台", "id": 406835}], "successors": []}

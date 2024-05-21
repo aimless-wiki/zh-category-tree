@@ -1,1 +1,1 @@
-{"name": "撤回药物", "id": 1753726, "predecessors": [{"name": "药物安全", "id": 1763027}, {"name": "商業", "id": 64628}], "successors": []}
+{"name": "撤回药物", "id": 1753726, "predecessors": [{"name": "药物安全", "id": 1763027}, {"name": "藥理學", "id": 58261}], "successors": []}

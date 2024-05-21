@@ -1,1 +1,1 @@
-{"name": "IBEX_35", "id": 3766006, "predecessors": [{"name": "经济", "id": 42373}, {"name": "金融公司", "id": 87054}, {"name": "经济指数", "id": 71602}], "successors": []}
+{"name": "IBEX_35", "id": 3766006, "predecessors": [{"name": "经济", "id": 42373}, {"name": "金融公司", "id": 87054}, {"name": "股市", "id": 73573}], "successors": []}

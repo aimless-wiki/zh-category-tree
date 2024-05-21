@@ -1,1 +1,1 @@
-{"name": "德国公路", "id": 590836, "predecessors": [{"name": "交通", "id": 44301}, {"name": "经济", "id": 42373}], "successors": []}
+{"name": "德国公路", "id": 590836, "predecessors": [{"name": "公共交通", "id": 80881}, {"name": "经济", "id": 42373}], "successors": []}

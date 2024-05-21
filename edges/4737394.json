@@ -1,1 +1,1 @@
-{"name": "调车机车", "id": 4737394, "predecessors": [{"name": "交通", "id": 44301}], "successors": []}
+{"name": "调车机车", "id": 4737394, "predecessors": [{"name": "车辆", "id": 117268}], "successors": []}

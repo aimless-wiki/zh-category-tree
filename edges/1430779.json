@@ -1,1 +1,1 @@
-{"name": "IEC標準", "id": 1430779, "predecessors": [{"name": "国际标准", "id": 123875}, {"name": "标准制订机构", "id": 66177}, {"name": "组织", "id": 42377}, {"name": "電子學", "id": 73177}], "successors": [{"name": "MPEG", "id": 978691}, {"name": "ISO/IEC标准", "id": 8184859}]}
+{"name": "IEC標準", "id": 1430779, "predecessors": [{"name": "国际标准", "id": 123875}, {"name": "标准制订机构", "id": 66177}, {"name": "组织", "id": 42377}], "successors": [{"name": "MPEG", "id": 978691}, {"name": "ISO/IEC标准", "id": 8184859}]}

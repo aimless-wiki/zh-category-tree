@@ -1,1 +1,1 @@
-{"name": "西安地铁4号线车站", "id": 6443275, "predecessors": [{"name": "陕西省铁路", "id": 720277}], "successors": []}
+{"name": "西安地铁4号线车站", "id": 6443275, "predecessors": [{"name": "陕西省铁路", "id": 720277}, {"name": "城市轨道交通", "id": 281040}], "successors": []}

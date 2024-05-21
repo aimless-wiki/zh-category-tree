@@ -1,1 +1,1 @@
-{"name": "研究方法", "id": 543515, "predecessors": [{"name": "研究", "id": 188562}, {"name": "科學方法", "id": 188563}, {"name": "哲学理论", "id": 544680}], "successors": [{"name": "科学建模", "id": 770208}]}
+{"name": "研究方法", "id": 543515, "predecessors": [{"name": "研究", "id": 188562}, {"name": "科學方法", "id": 188563}], "successors": [{"name": "科学建模", "id": 770208}]}

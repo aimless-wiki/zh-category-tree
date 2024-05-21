@@ -1,1 +1,1 @@
-{"name": "巴黎桥梁", "id": 1003690, "predecessors": [{"name": "巴黎建筑物", "id": 3121134}, {"name": "交通", "id": 44301}], "successors": []}
+{"name": "巴黎桥梁", "id": 1003690, "predecessors": [{"name": "巴黎建筑物", "id": 3121134}, {"name": "交通", "id": 44301}, {"name": "经济", "id": 42373}], "successors": []}

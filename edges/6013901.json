@@ -1,1 +1,1 @@
-{"name": "山西省铁路线", "id": 6013901, "predecessors": [{"name": "中国文化", "id": 33600}, {"name": "公共交通", "id": 80881}], "successors": [{"name": "同蒲铁路车站", "id": 597199}]}
+{"name": "山西省铁路线", "id": 6013901, "predecessors": [{"name": "中国文化", "id": 33600}, {"name": "交通", "id": 44301}], "successors": [{"name": "同蒲铁路车站", "id": 597199}]}

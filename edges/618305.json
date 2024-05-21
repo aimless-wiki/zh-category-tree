@@ -1,1 +1,1 @@
-{"name": "英國電力動車組", "id": 618305, "predecessors": [{"name": "鐵路車輛工學", "id": 928685}, {"name": "交通", "id": 44301}], "successors": []}
+{"name": "英國電力動車組", "id": 618305, "predecessors": [{"name": "鐵路", "id": 485584}, {"name": "车辆", "id": 117268}], "successors": []}

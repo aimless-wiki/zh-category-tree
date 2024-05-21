@@ -1,1 +1,1 @@
-{"name": "金星探測器", "id": 1422240, "predecessors": [{"name": "金星", "id": 33926}, {"name": "天文学史", "id": 76450}], "successors": []}
+{"name": "金星探測器", "id": 1422240, "predecessors": [{"name": "金星", "id": 33926}, {"name": "太阳系", "id": 33060}], "successors": []}

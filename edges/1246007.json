@@ -1,1 +1,1 @@
-{"name": "圓頂", "id": 1246007, "predecessors": [{"name": "屋顶", "id": 351442}, {"name": "几何形状", "id": 705292}, {"name": "建築物", "id": 3231846}], "successors": [{"name": "南極洲穹丘", "id": 6232147}]}
+{"name": "圓頂", "id": 1246007, "predecessors": [{"name": "建築構件", "id": 184145}, {"name": "建築物", "id": 3231846}], "successors": []}

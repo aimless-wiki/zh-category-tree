@@ -1,1 +1,1 @@
-{"name": "全身麻醉药", "id": 1661968, "predecessors": [{"name": "医学专科", "id": 1645188}, {"name": "药物", "id": 50014}], "successors": []}
+{"name": "全身麻醉药", "id": 1661968, "predecessors": [{"name": "医学专科", "id": 1645188}, {"name": "藥理學", "id": 58261}], "successors": []}

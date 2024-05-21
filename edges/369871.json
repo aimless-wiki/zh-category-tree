@@ -1,1 +1,1 @@
-{"name": "HTTP", "id": 369871, "predecessors": [{"name": "W3C标准", "id": 521573}, {"name": "应用层协议", "id": 4031274}, {"name": "網站開發", "id": 521568}, {"name": "用户界面", "id": 1421565}], "successors": [{"name": "網頁瀏覽器", "id": 53899}]}
+{"name": "HTTP", "id": 369871, "predecessors": [{"name": "W3C标准", "id": 521573}, {"name": "網站開發", "id": 521568}, {"name": "用户界面", "id": 1421565}], "successors": [{"name": "網頁瀏覽器", "id": 53899}]}

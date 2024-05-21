@@ -1,1 +1,1 @@
-{"name": "核苷", "id": 390881, "predecessors": [{"name": "含氮雜環", "id": 588021}, {"name": "生物化学", "id": 43811}], "successors": [{"name": "核苷酸", "id": 583895}]}
+{"name": "核苷", "id": 390881, "predecessors": [{"name": "含氮雜環", "id": 588021}, {"name": "糖类", "id": 1381230}], "successors": [{"name": "核苷酸", "id": 583895}]}

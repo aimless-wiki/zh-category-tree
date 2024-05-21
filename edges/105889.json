@@ -1,1 +1,1 @@
-{"name": "德国河流", "id": 105889, "predecessors": [{"name": "水體", "id": 77215}], "successors": [{"name": "北莱茵-威斯特法伦州河流", "id": 7316020}]}
+{"name": "德国河流", "id": 105889, "predecessors": [{"name": "水體", "id": 77215}, {"name": "環境", "id": 65994}], "successors": [{"name": "北莱茵-威斯特法伦州河流", "id": 7316020}]}

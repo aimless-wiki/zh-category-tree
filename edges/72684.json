@@ -1,1 +1,1 @@
-{"name": "速食", "id": 72684, "predecessors": [{"name": "維基百科管理", "id": 501839}], "successors": [{"name": "速食餐廳", "id": 74389}, {"name": "拉麵", "id": 4123400}]}
+{"name": "速食", "id": 72684, "predecessors": [{"name": "飲食", "id": 66265}], "successors": [{"name": "速食餐廳", "id": 74389}, {"name": "拉麵", "id": 4123400}]}

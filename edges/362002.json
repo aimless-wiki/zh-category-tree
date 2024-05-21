@@ -1,1 +1,1 @@
-{"name": "糖果", "id": 362002, "predecessors": [{"name": "甜食", "id": 72860}, {"name": "零食", "id": 287396}, {"name": "甜味剂", "id": 59771}], "successors": []}
+{"name": "糖果", "id": 362002, "predecessors": [{"name": "甜食", "id": 72860}, {"name": "甜味剂", "id": 59771}], "successors": []}

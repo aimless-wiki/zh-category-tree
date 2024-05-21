@@ -1,1 +1,1 @@
-{"name": "虚构教授", "id": 5202559, "predecessors": [{"name": "僱傭", "id": 769801}, {"name": "称谓", "id": 78052}], "successors": []}
+{"name": "虚构教授", "id": 5202559, "predecessors": [{"name": "知識", "id": 58051}, {"name": "文化", "id": 42322}, {"name": "維基百科管理", "id": 501839}], "successors": []}

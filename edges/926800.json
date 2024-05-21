@@ -1,1 +1,1 @@
-{"name": "消毒剂", "id": 926800, "predecessors": [{"name": "清洁用品", "id": 273461}, {"name": "微生物学", "id": 44407}], "successors": []}
+{"name": "消毒剂", "id": 926800, "predecessors": [{"name": "人類生活環境", "id": 1564975}, {"name": "藥學", "id": 58263}], "successors": []}

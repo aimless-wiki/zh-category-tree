@@ -1,1 +1,1 @@
-{"name": "酯类溶剂", "id": 947119, "predecessors": [{"name": "官能团", "id": 157518}, {"name": "溶液", "id": 754437}], "successors": [{"name": "塑化劑", "id": 1583243}]}
+{"name": "酯类溶剂", "id": 947119, "predecessors": [{"name": "有机化合物", "id": 43569}], "successors": [{"name": "塑化劑", "id": 1583243}]}

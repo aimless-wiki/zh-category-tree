@@ -1,1 +1,1 @@
-{"name": "小行星探測器", "id": 1422265, "predecessors": [{"name": "交通", "id": 44301}, {"name": "行星科学", "id": 555185}, {"name": "天文学史", "id": 76450}], "successors": []}
+{"name": "小行星探測器", "id": 1422265, "predecessors": [{"name": "太阳系", "id": 33060}, {"name": "交通", "id": 44301}], "successors": []}

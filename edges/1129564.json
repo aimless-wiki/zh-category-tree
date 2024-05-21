@@ -1,1 +1,1 @@
-{"name": "東京都道路", "id": 1129564, "predecessors": [{"name": "交通", "id": 44301}], "successors": [{"name": "首都高速道路", "id": 398550}]}
+{"name": "東京都道路", "id": 1129564, "predecessors": [{"name": "日本都道府縣", "id": 1298197}, {"name": "太平洋", "id": 135278}], "successors": [{"name": "首都高速道路", "id": 398550}]}

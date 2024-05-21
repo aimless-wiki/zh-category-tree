@@ -1,1 +1,1 @@
-{"name": "日本電力動車組", "id": 577104, "predecessors": [{"name": "鐵路車輛工學", "id": 928685}, {"name": "交通", "id": 44301}], "successors": []}
+{"name": "日本電力動車組", "id": 577104, "predecessors": [{"name": "鐵路", "id": 485584}, {"name": "交通", "id": 44301}], "successors": []}

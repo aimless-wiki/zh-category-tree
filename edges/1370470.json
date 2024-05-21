@@ -1,1 +1,1 @@
-{"name": "中国大陆快速公交系统", "id": 1370470, "predecessors": [{"name": "公共交通", "id": 80881}], "successors": []}
+{"name": "中国大陆快速公交系统", "id": 1370470, "predecessors": [{"name": "公共交通", "id": 80881}, {"name": "交通", "id": 44301}], "successors": []}

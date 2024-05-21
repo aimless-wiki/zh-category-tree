@@ -1,1 +1,1 @@
-{"name": "序理论", "id": 333342, "predecessors": [{"name": "文化", "id": 42322}, {"name": "总览", "id": 6349075}, {"name": "二元運算", "id": 404458}], "successors": [{"name": "排序算法", "id": 147566}, {"name": "布尔代数", "id": 120754}]}
+{"name": "序理论", "id": 333342, "predecessors": [{"name": "文化", "id": 42322}, {"name": "二元運算", "id": 404458}], "successors": []}

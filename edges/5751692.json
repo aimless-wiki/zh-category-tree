@@ -1,1 +1,1 @@
-{"name": "杨浦区建筑物", "id": 5751692, "predecessors": [{"name": "杨浦区", "id": 750678}, {"name": "城市", "id": 42675}], "successors": [{"name": "杨浦区地铁车站", "id": 5498081}]}
+{"name": "杨浦区建筑物", "id": 5751692, "predecessors": [{"name": "城市", "id": 42675}], "successors": [{"name": "杨浦区地铁车站", "id": 5498081}]}

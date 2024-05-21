@@ -1,1 +1,1 @@
-{"name": "相变", "id": 741200, "predecessors": [{"name": "物理化学", "id": 83015}, {"name": "物质状态", "id": 1552790}, {"name": "统计力学", "id": 3151554}, {"name": "热力学", "id": 55696}], "successors": []}
+{"name": "相变", "id": 741200, "predecessors": [{"name": "物质状态", "id": 1552790}, {"name": "统计力学", "id": 3151554}, {"name": "热力学", "id": 55696}], "successors": []}

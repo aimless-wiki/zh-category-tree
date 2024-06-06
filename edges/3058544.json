@@ -1,1 +1,1 @@
-{"name": "中國物流公司", "id": 3058544, "predecessors": [{"name": "交通", "id": 44301}], "successors": [{"name": "香港物流公司", "id": 661062}]}
+{"name": "中國物流公司", "id": 3058544, "predecessors": [{"name": "物流公司", "id": 381452}, {"name": "总览", "id": 6349075}], "successors": [{"name": "香港物流公司", "id": 661062}]}

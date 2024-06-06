@@ -1,1 +1,1 @@
-{"name": "台灣魚類", "id": 6260958, "predecessors": [{"name": "水", "id": 80602}, {"name": "演化生物學", "id": 486399}, {"name": "台灣動物", "id": 405885}], "successors": []}
+{"name": "台灣魚類", "id": 6260958, "predecessors": [{"name": "生態學", "id": 65019}, {"name": "动物", "id": 32861}, {"name": "水", "id": 80602}, {"name": "台灣動物", "id": 405885}], "successors": []}

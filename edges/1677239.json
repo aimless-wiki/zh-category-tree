@@ -1,1 +1,1 @@
-{"name": "教育问题", "id": 1677239, "predecessors": [{"name": "社会问题", "id": 521516}], "successors": []}
+{"name": "教育问题", "id": 1677239, "predecessors": [{"name": "社会问题", "id": 521516}, {"name": "公共政策", "id": 1437002}], "successors": [{"name": "学术丑闻", "id": 1068003}]}

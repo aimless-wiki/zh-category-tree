@@ -1,1 +1,1 @@
-{"name": "围困战", "id": 7466714, "predecessors": [{"name": "战争", "id": 41427}, {"name": "军事术语", "id": 334365}], "successors": []}
+{"name": "围困战", "id": 7466714, "predecessors": [{"name": "战争", "id": 41427}, {"name": "城鎮戰", "id": 6812501}], "successors": [{"name": "圍困戰電影", "id": 8133131}, {"name": "法國圍城戰", "id": 8196210}]}

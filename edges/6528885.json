@@ -1,1 +1,1 @@
-{"name": "视频点播订阅服务", "id": 6528885, "predecessors": [{"name": "隨選視訊服務", "id": 4461471}, {"name": "电子商务", "id": 223864}], "successors": [{"name": "Netflix外购动画", "id": 5904842}, {"name": "Netflix使用者", "id": 6332337}, {"name": "Netflix原創動畫", "id": 6919235}, {"name": "Netflix原創動畫電影", "id": 8252422}, {"name": "Netflix英語原創電影", "id": 8363102}, {"name": "Disney+原創節目", "id": 6707051}]}
+{"name": "视频点播订阅服务", "id": 6528885, "predecessors": [{"name": "隨選視訊服務", "id": 4461471}, {"name": "电子商务", "id": 223864}], "successors": [{"name": "Disney+原創節目", "id": 6707051}]}

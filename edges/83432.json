@@ -1,1 +1,1 @@
-{"name": "电化学", "id": 83432, "predecessors": [{"name": "電學", "id": 69107}], "successors": [{"name": "电池", "id": 88986}]}
+{"name": "电化学", "id": 83432, "predecessors": [{"name": "物理化学", "id": 83015}, {"name": "電學", "id": 69107}], "successors": []}

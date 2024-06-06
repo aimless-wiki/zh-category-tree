@@ -1,1 +1,1 @@
-{"name": "三氯甲基化合物", "id": 6059120, "predecessors": [{"name": "有机氯化合物", "id": 789283}, {"name": "有机化合物", "id": 43569}], "successors": []}
+{"name": "三氯甲基化合物", "id": 6059120, "predecessors": [{"name": "有机氯化合物", "id": 789283}, {"name": "官能团", "id": 157518}], "successors": []}

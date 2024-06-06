@@ -1,1 +1,1 @@
-{"name": "體育器材", "id": 901236, "predecessors": [{"name": "生活用品", "id": 458965}, {"name": "人類行為", "id": 665955}], "successors": []}
+{"name": "體育器材", "id": 901236, "predecessors": [{"name": "工具", "id": 65701}, {"name": "生活用品", "id": 458965}, {"name": "人類行為", "id": 665955}], "successors": [{"name": "球", "id": 971493}]}

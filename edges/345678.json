@@ -1,1 +1,1 @@
-{"name": "元音", "id": 345678, "predecessors": [{"name": "语言学", "id": 42488}], "successors": [{"name": "元音和諧語言", "id": 217168}, {"name": "元音模板", "id": 5962292}]}
+{"name": "元音", "id": 345678, "predecessors": [{"name": "語音學", "id": 321751}, {"name": "语言学", "id": 42488}], "successors": [{"name": "元音和諧語言", "id": 217168}, {"name": "元音模板", "id": 5962292}]}

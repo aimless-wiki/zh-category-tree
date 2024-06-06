@@ -1,1 +1,1 @@
-{"name": "纽约街道", "id": 203735, "predecessors": [{"name": "紐約都會區交通", "id": 345549}, {"name": "交通", "id": 44301}], "successors": [{"name": "曼哈頓街道", "id": 2767526}]}
+{"name": "纽约街道", "id": 203735, "predecessors": [{"name": "紐約都會區交通", "id": 345549}, {"name": "服務業", "id": 58264}, {"name": "交通", "id": 44301}], "successors": []}

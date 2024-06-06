@@ -1,1 +1,1 @@
-{"name": "巴士生產商", "id": 307125, "predecessors": [{"name": "巴士", "id": 77974}, {"name": "机械制造业", "id": 933453}], "successors": []}
+{"name": "巴士生產商", "id": 307125, "predecessors": [{"name": "巴士", "id": 77974}, {"name": "製造業", "id": 1159067}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "格鬥遊戲", "id": 146170, "predecessors": [{"name": "動作遊戲", "id": 345374}], "successors": []}
+{"name": "格鬥遊戲", "id": 146170, "predecessors": [{"name": "動作遊戲", "id": 345374}, {"name": "人機互動", "id": 632385}], "successors": []}

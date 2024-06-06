@@ -1,1 +1,1 @@
-{"name": "使用Qt的軟體", "id": 1296518, "predecessors": [{"name": "X_Window系统", "id": 1156320}], "successors": []}
+{"name": "使用Qt的軟體", "id": 1296518, "predecessors": [{"name": "C++", "id": 516820}, {"name": "计算机程序库", "id": 1402834}], "successors": []}

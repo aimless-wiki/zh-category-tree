@@ -1,1 +1,1 @@
-{"name": "豪華汽車製造商", "id": 4403124, "predecessors": [{"name": "豪華汽車", "id": 5220788}, {"name": "机械制造业", "id": 933453}], "successors": []}
+{"name": "豪華汽車製造商", "id": 4403124, "predecessors": [{"name": "豪華汽車", "id": 5220788}, {"name": "製造業", "id": 1159067}], "successors": []}

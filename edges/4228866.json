@@ -1,1 +1,1 @@
-{"name": "新加坡摩天大樓", "id": 4228866, "predecessors": [{"name": "建築物", "id": 3231846}, {"name": "文化", "id": 42322}], "successors": []}
+{"name": "新加坡摩天大樓", "id": 4228866, "predecessors": [{"name": "城市", "id": 42675}, {"name": "建築物", "id": 3231846}], "successors": []}

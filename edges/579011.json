@@ -1,1 +1,1 @@
-{"name": "嫦娥工程", "id": 579011, "predecessors": [{"name": "月球", "id": 363689}, {"name": "航天", "id": 81152}], "successors": []}
+{"name": "嫦娥工程", "id": 579011, "predecessors": [{"name": "航天", "id": 81152}, {"name": "人類行為", "id": 665955}], "successors": []}

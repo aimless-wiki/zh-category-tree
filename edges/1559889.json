@@ -1,1 +1,1 @@
-{"name": "科学技术", "id": 1559889, "predecessors": [{"name": "科學方法", "id": 188563}], "successors": []}
+{"name": "科学技术", "id": 1559889, "predecessors": [{"name": "科學方法", "id": 188563}, {"name": "學習", "id": 58085}], "successors": [{"name": "實驗室技術", "id": 69892}]}

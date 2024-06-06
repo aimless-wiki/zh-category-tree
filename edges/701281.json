@@ -1,1 +1,1 @@
-{"name": "氢氧化物", "id": 701281, "predecessors": [{"name": "氢化合物", "id": 697158}, {"name": "化合物", "id": 41507}, {"name": "分子物理学", "id": 148761}], "successors": [{"name": "水", "id": 80602}]}
+{"name": "氢氧化物", "id": 701281, "predecessors": [{"name": "氢化合物", "id": 697158}, {"name": "化合物", "id": 41507}, {"name": "化学元素", "id": 320992}], "successors": [{"name": "水", "id": 80602}]}

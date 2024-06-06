@@ -1,1 +1,1 @@
-{"name": "台灣燈塔", "id": 598771, "predecessors": [{"name": "交通", "id": 44301}, {"name": "水", "id": 80602}, {"name": "建築物", "id": 3231846}], "successors": []}
+{"name": "台灣燈塔", "id": 598771, "predecessors": [{"name": "建築物", "id": 3231846}, {"name": "交通", "id": 44301}, {"name": "总览", "id": 6349075}, {"name": "水路運輸", "id": 65756}], "successors": []}

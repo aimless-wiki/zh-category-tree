@@ -1,1 +1,1 @@
-{"name": "NHK電視新聞節目", "id": 2818705, "predecessors": [{"name": "NHK電視節目", "id": 2734309}, {"name": "NHK", "id": 584501}, {"name": "文化", "id": 42322}], "successors": []}
+{"name": "NHK電視新聞節目", "id": 2818705, "predecessors": [{"name": "NHK電視節目", "id": 2734309}, {"name": "NHK", "id": 584501}, {"name": "大眾媒體", "id": 58343}], "successors": []}

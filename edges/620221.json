@@ -1,1 +1,1 @@
-{"name": "認證方法", "id": 620221, "predecessors": [{"name": "電腦安全", "id": 65992}, {"name": "监视", "id": 1721853}, {"name": "保安", "id": 706671}], "successors": [{"name": "证件", "id": 78290}]}
+{"name": "認證方法", "id": 620221, "predecessors": [{"name": "電腦安全", "id": 65992}, {"name": "安全", "id": 256369}, {"name": "保安", "id": 706671}], "successors": []}

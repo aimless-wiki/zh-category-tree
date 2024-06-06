@@ -1,1 +1,1 @@
-{"name": "吳線車站", "id": 5651720, "predecessors": [{"name": "日本鐵路公司", "id": 489668}, {"name": "日本已結業公司", "id": 3119416}, {"name": "交通", "id": 44301}], "successors": []}
+{"name": "吳線車站", "id": 5651720, "predecessors": [{"name": "交通", "id": 44301}, {"name": "产业", "id": 58086}], "successors": []}

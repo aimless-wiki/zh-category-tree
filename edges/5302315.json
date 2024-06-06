@@ -1,1 +1,1 @@
-{"name": "軍事戰略", "id": 5302315, "predecessors": [{"name": "军事学", "id": 805048}, {"name": "戰略", "id": 236716}], "successors": [{"name": "兵书", "id": 80930}]}
+{"name": "軍事戰略", "id": 5302315, "predecessors": [{"name": "戰略", "id": 236716}], "successors": [{"name": "兵书", "id": 80930}]}

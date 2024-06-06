@@ -1,1 +1,1 @@
-{"name": "群馬縣鐵路車站", "id": 403773, "predecessors": [{"name": "太平洋", "id": 135278}, {"name": "文化", "id": 42322}, {"name": "交通", "id": 44301}], "successors": [{"name": "JR東日本轉乘車站", "id": 7002170}]}
+{"name": "群馬縣鐵路車站", "id": 403773, "predecessors": [{"name": "交通", "id": 44301}, {"name": "总览", "id": 6349075}], "successors": []}

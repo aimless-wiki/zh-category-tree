@@ -1,1 +1,1 @@
-{"name": "健康保險", "id": 5904403, "predecessors": [{"name": "保險", "id": 104896}, {"name": "服務業", "id": 58264}], "successors": []}
+{"name": "健康保險", "id": 5904403, "predecessors": [{"name": "医学", "id": 42370}, {"name": "保險", "id": 104896}, {"name": "健康照護", "id": 358696}], "successors": []}

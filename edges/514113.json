@@ -1,1 +1,1 @@
-{"name": "乙太網路", "id": 514113, "predecessors": [{"name": "计算机总线", "id": 190899}], "successors": []}
+{"name": "乙太網路", "id": 514113, "predecessors": [{"name": "网络技术", "id": 54303}, {"name": "计算机总线", "id": 190899}, {"name": "链路协议", "id": 515258}, {"name": "IEEE标准", "id": 515231}, {"name": "電子學", "id": 73177}], "successors": []}

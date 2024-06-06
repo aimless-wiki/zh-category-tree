@@ -1,1 +1,1 @@
-{"name": "拓扑空间", "id": 704467, "predecessors": [{"name": "拓扑学", "id": 52242}, {"name": "数学概念", "id": 7987118}], "successors": [{"name": "多胞形", "id": 704470}]}
+{"name": "拓扑空间", "id": 704467, "predecessors": [{"name": "拓扑学", "id": 52242}], "successors": [{"name": "多胞形", "id": 704470}]}

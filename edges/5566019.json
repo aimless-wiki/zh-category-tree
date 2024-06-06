@@ -1,1 +1,1 @@
-{"name": "氨配合物", "id": 5566019, "predecessors": [{"name": "氢化合物", "id": 697158}, {"name": "配位化合物", "id": 697165}, {"name": "分子物理学", "id": 148761}], "successors": []}
+{"name": "氨配合物", "id": 5566019, "predecessors": [{"name": "配位化合物", "id": 697165}, {"name": "化学元素", "id": 320992}], "successors": []}

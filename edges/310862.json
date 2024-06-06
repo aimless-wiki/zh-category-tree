@@ -1,1 +1,1 @@
-{"name": "教練機", "id": 310862, "predecessors": [{"name": "航空", "id": 81361}, {"name": "交通", "id": 44301}], "successors": [{"name": "軍用教練機", "id": 527896}]}
+{"name": "教練機", "id": 310862, "predecessors": [{"name": "航空", "id": 81361}], "successors": [{"name": "軍用教練機", "id": 527896}]}

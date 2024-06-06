@@ -1,1 +1,1 @@
-{"name": "電動載具", "id": 1217737, "predecessors": [{"name": "電學", "id": 69107}], "successors": []}
+{"name": "電動載具", "id": 1217737, "predecessors": [{"name": "電學", "id": 69107}, {"name": "交通", "id": 44301}], "successors": []}

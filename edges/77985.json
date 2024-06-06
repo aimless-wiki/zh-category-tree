@@ -1,1 +1,1 @@
-{"name": "政治書籍", "id": 77985, "predecessors": [{"name": "文化", "id": 42322}], "successors": []}
+{"name": "政治書籍", "id": 77985, "predecessors": [{"name": "社会科学", "id": 41504}, {"name": "总览", "id": 6349075}], "successors": [{"name": "共产主义书籍", "id": 448727}, {"name": "政治哲學書籍", "id": 4477100}]}

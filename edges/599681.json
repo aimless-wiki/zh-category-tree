@@ -1,1 +1,1 @@
-{"name": "专有软件", "id": 599681, "predecessors": [], "successors": [{"name": "共享軟件", "id": 226319}, {"name": "免费软件", "id": 1400983}, {"name": "Java", "id": 59427}, {"name": "苹果操作系统", "id": 519407}, {"name": "Microsoft_Windows", "id": 973088}]}
+{"name": "专有软件", "id": 599681, "predecessors": [{"name": "軟體授權", "id": 552329}], "successors": [{"name": "共享軟件", "id": 226319}, {"name": "免费软件", "id": 1400983}, {"name": "Java", "id": 59427}, {"name": "苹果操作系统", "id": 519407}, {"name": "Microsoft_Windows", "id": 973088}]}

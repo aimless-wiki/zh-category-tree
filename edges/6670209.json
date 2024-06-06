@@ -1,1 +1,1 @@
-{"name": "火災身亡者", "id": 6670209, "predecessors": [{"name": "火", "id": 405987}], "successors": [{"name": "被火刑處決者", "id": 5251137}]}
+{"name": "火災身亡者", "id": 6670209, "predecessors": [{"name": "火", "id": 405987}, {"name": "死因", "id": 741462}], "successors": [{"name": "被火刑處決者", "id": 5251137}]}

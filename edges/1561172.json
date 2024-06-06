@@ -1,1 +1,1 @@
-{"name": "抗菌防腐药", "id": 1561172, "predecessors": [{"name": "藥學", "id": 58263}], "successors": []}
+{"name": "抗菌防腐药", "id": 1561172, "predecessors": [{"name": "卫生", "id": 42369}, {"name": "微生物学", "id": 44407}], "successors": []}

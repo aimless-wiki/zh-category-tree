@@ -1,1 +1,1 @@
-{"name": "X_Window系统", "id": 1156320, "predecessors": [{"name": "Unix", "id": 93929}, {"name": "自由系統軟體", "id": 1187918}, {"name": "Linux軟件", "id": 766194}, {"name": "Unix软件", "id": 451600}, {"name": "系統管理", "id": 1144948}], "successors": [{"name": "KDE", "id": 450835}, {"name": "使用Qt的軟體", "id": 1296518}]}
+{"name": "X_Window系统", "id": 1156320, "predecessors": [{"name": "应用层协议", "id": 4031274}, {"name": "Unix", "id": 93929}, {"name": "自由系統軟體", "id": 1187918}, {"name": "Linux軟件", "id": 766194}, {"name": "Unix软件", "id": 451600}], "successors": []}

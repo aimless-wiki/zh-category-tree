@@ -1,1 +1,1 @@
-{"name": "疫苗", "id": 547984, "predecessors": [{"name": "药物", "id": 50014}, {"name": "藥理學", "id": 58261}], "successors": []}
+{"name": "疫苗", "id": 547984, "predecessors": [{"name": "药物", "id": 50014}, {"name": "儿科", "id": 480851}, {"name": "健康照護", "id": 358696}], "successors": []}

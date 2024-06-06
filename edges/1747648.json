@@ -1,1 +1,1 @@
-{"name": "抗肿瘤药", "id": 1747648, "predecessors": [{"name": "藥理學", "id": 58261}], "successors": [{"name": "实验癌症用药", "id": 1644164}]}
+{"name": "抗肿瘤药", "id": 1747648, "predecessors": [{"name": "癌症治療", "id": 568815}, {"name": "健康照護", "id": 358696}], "successors": [{"name": "实验癌症用药", "id": 1644164}]}

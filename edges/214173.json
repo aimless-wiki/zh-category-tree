@@ -1,1 +1,1 @@
-{"name": "日本电台", "id": 214173, "predecessors": [{"name": "日本媒體", "id": 57329}, {"name": "广播", "id": 65119}], "successors": [{"name": "NHK", "id": 584501}]}
+{"name": "日本电台", "id": 214173, "predecessors": [{"name": "广播", "id": 65119}, {"name": "日本媒體", "id": 57329}], "successors": [{"name": "NHK", "id": 584501}, {"name": "朝日放送製作動畫", "id": 4130744}]}

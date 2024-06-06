@@ -1,1 +1,1 @@
-{"name": "墙体结构", "id": 258020, "predecessors": [{"name": "建築構件", "id": 184145}, {"name": "建築物", "id": 3231846}], "successors": []}
+{"name": "墙体结构", "id": 258020, "predecessors": [{"name": "建築構件", "id": 184145}, {"name": "结构工程", "id": 511437}, {"name": "建築物", "id": 3231846}], "successors": []}

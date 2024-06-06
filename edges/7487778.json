@@ -1,1 +1,1 @@
-{"name": "大船渡線BRT車站", "id": 7487778, "predecessors": [{"name": "大船渡線車站", "id": 5499788}, {"name": "日本都道府縣", "id": 1298197}, {"name": "太平洋", "id": 135278}], "successors": []}
+{"name": "大船渡線BRT車站", "id": 7487778, "predecessors": [{"name": "大船渡線車站", "id": 5499788}, {"name": "交通", "id": 44301}, {"name": "总览", "id": 6349075}], "successors": []}

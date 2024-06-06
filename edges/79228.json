@@ -1,1 +1,1 @@
-{"name": "宗教学", "id": 79228, "predecessors": [{"name": "社会科学", "id": 41504}, {"name": "人類行為", "id": 665955}], "successors": [{"name": "宗教哲學", "id": 73383}, {"name": "犹太教", "id": 45212}, {"name": "錫安主義", "id": 524160}]}
+{"name": "宗教学", "id": 79228, "predecessors": [{"name": "宗教", "id": 33582}, {"name": "社会科学", "id": 41504}], "successors": [{"name": "宗教哲學", "id": 73383}]}

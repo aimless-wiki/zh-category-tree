@@ -1,1 +1,1 @@
-{"name": "贵州省铁路线", "id": 6014061, "predecessors": [{"name": "贵州省铁路", "id": 805034}, {"name": "交通", "id": 44301}], "successors": []}
+{"name": "贵州省铁路线", "id": 6014061, "predecessors": [{"name": "贵州省铁路", "id": 805034}, {"name": "公共交通", "id": 80881}], "successors": []}

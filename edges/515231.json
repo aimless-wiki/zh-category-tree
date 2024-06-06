@@ -1,1 +1,1 @@
-{"name": "IEEE标准", "id": 515231, "predecessors": [{"name": "标准", "id": 66182}, {"name": "电子工程", "id": 58072}, {"name": "国际专业性组织", "id": 925441}], "successors": [{"name": "C標準函式庫", "id": 561031}]}
+{"name": "IEEE标准", "id": 515231, "predecessors": [{"name": "标准", "id": 66182}, {"name": "电子工程", "id": 58072}, {"name": "总览", "id": 6349075}], "successors": [{"name": "乙太網路", "id": 514113}, {"name": "IEEE_802.11", "id": 3218619}]}

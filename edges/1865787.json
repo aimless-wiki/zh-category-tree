@@ -1,1 +1,1 @@
-{"name": "膳食", "id": 1865787, "predecessors": [{"name": "营养学", "id": 43815}, {"name": "飲食", "id": 66265}, {"name": "人類行為", "id": 665955}, {"name": "公共卫生", "id": 341232}, {"name": "总览", "id": 6349075}], "successors": []}
+{"name": "膳食", "id": 1865787, "predecessors": [{"name": "营养学", "id": 43815}, {"name": "公共卫生", "id": 341232}, {"name": "文化", "id": 42322}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "OCN電視劇", "id": 1872543, "predecessors": [{"name": "文化", "id": 42322}, {"name": "广播", "id": 65119}], "successors": [{"name": "OCN_Original_Series", "id": 6246194}]}
+{"name": "OCN電視劇", "id": 1872543, "predecessors": [{"name": "藝術類型", "id": 71185}, {"name": "文化", "id": 42322}], "successors": [{"name": "OCN_Original_Series", "id": 6246194}]}

@@ -1,1 +1,1 @@
-{"name": "生物燃料", "id": 702019, "predecessors": [{"name": "可再生能源", "id": 762461}, {"name": "材料", "id": 58876}], "successors": []}
+{"name": "生物燃料", "id": 702019, "predecessors": [{"name": "可持续技术", "id": 1603235}, {"name": "可再生能源", "id": 762461}], "successors": []}

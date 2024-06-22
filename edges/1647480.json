@@ -1,1 +1,1 @@
-{"name": "法国高速公路", "id": 1647480, "predecessors": [{"name": "欧洲国际公路", "id": 586178}], "successors": []}
+{"name": "法国高速公路", "id": 1647480, "predecessors": [{"name": "法国公路", "id": 1167895}, {"name": "欧洲国际公路", "id": 586178}, {"name": "公共交通", "id": 80881}], "successors": []}

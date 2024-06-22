@@ -1,1 +1,1 @@
-{"name": "韩国音乐节目", "id": 7632949, "predecessors": [{"name": "表演藝術", "id": 58285}, {"name": "文化", "id": 42322}, {"name": "電視節目的類型", "id": 1557779}], "successors": [{"name": "PEAK_TIME", "id": 8320359}]}
+{"name": "韩国音乐节目", "id": 7632949, "predecessors": [{"name": "文化", "id": 42322}], "successors": [{"name": "PEAK_TIME", "id": 8320359}]}

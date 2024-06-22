@@ -1,1 +1,1 @@
-{"name": "青霉素", "id": 1279125, "predecessors": [{"name": "内酰胺", "id": 1041610}], "successors": []}
+{"name": "青霉素", "id": 1279125, "predecessors": [{"name": "抗生素", "id": 83718}], "successors": []}

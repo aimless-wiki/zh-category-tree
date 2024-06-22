@@ -1,1 +1,1 @@
-{"name": "香港渡輪碼頭", "id": 189000, "predecessors": [{"name": "船舰类型", "id": 798142}, {"name": "建築物", "id": 3231846}, {"name": "水路運輸", "id": 65756}], "successors": []}
+{"name": "香港渡輪碼頭", "id": 189000, "predecessors": [{"name": "船舰类型", "id": 798142}, {"name": "水路運輸", "id": 65756}, {"name": "文化", "id": 42322}], "successors": []}

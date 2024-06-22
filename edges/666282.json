@@ -1,1 +1,1 @@
-{"name": "蘇聯火砲", "id": 666282, "predecessors": [{"name": "火炮", "id": 52697}, {"name": "供應鏈管理", "id": 469766}], "successors": []}
+{"name": "蘇聯火砲", "id": 666282, "predecessors": [{"name": "火炮", "id": 52697}, {"name": "蘇聯軍事", "id": 144484}], "successors": []}

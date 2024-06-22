@@ -1,1 +1,1 @@
-{"name": "芬兰机场", "id": 894901, "predecessors": [{"name": "文化", "id": 42322}, {"name": "交通", "id": 44301}, {"name": "经济", "id": 42373}], "successors": []}
+{"name": "芬兰机场", "id": 894901, "predecessors": [{"name": "交通", "id": 44301}, {"name": "经济", "id": 42373}, {"name": "文化", "id": 42322}], "successors": []}

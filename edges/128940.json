@@ -1,1 +1,1 @@
-{"name": "半导体元件", "id": 128940, "predecessors": [{"name": "電子元件", "id": 73185}, {"name": "凝聚体物理学", "id": 94447}], "successors": [{"name": "集成電路", "id": 390269}]}
+{"name": "半导体元件", "id": 128940, "predecessors": [{"name": "電子元件", "id": 73185}], "successors": [{"name": "集成電路", "id": 390269}]}

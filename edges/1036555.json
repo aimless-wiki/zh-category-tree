@@ -1,1 +1,1 @@
-{"name": "NHK動畫", "id": 1036555, "predecessors": [{"name": "NHK電視節目", "id": 2734309}, {"name": "動畫", "id": 64212}], "successors": [{"name": "NHK動畫主題曲", "id": 2819222}, {"name": "進擊的巨人", "id": 5650171}]}
+{"name": "NHK動畫", "id": 1036555, "predecessors": [{"name": "系列動畫作品", "id": 66912}], "successors": [{"name": "NHK動畫主題曲", "id": 2819222}, {"name": "進擊的巨人", "id": 5650171}]}

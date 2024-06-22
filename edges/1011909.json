@@ -1,1 +1,1 @@
-{"name": "貨運航空公司", "id": 1011909, "predecessors": [{"name": "产业", "id": 58086}, {"name": "货物运输", "id": 8192387}, {"name": "物流公司", "id": 381452}], "successors": []}
+{"name": "貨運航空公司", "id": 1011909, "predecessors": [{"name": "货物运输", "id": 8192387}, {"name": "物流公司", "id": 381452}], "successors": []}

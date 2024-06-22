@@ -1,1 +1,1 @@
-{"name": "葵青區巴士路線", "id": 738068, "predecessors": [{"name": "葵青區", "id": 178514}], "successors": []}
+{"name": "葵青區巴士路線", "id": 738068, "predecessors": [{"name": "葵青區", "id": 178514}, {"name": "公共交通", "id": 80881}], "successors": []}

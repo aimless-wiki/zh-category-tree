@@ -1,1 +1,1 @@
-{"name": "機器翻譯", "id": 456043, "predecessors": [{"name": "自然語言處理", "id": 1140367}, {"name": "应用软件", "id": 322335}], "successors": []}
+{"name": "機器翻譯", "id": 456043, "predecessors": [{"name": "应用软件", "id": 322335}], "successors": []}

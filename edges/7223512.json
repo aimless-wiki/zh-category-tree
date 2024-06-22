@@ -1,1 +1,1 @@
-{"name": "都營地鐵轉乘車站", "id": 7223512, "predecessors": [{"name": "城市轨道交通", "id": 281040}, {"name": "日本鐵路", "id": 219206}, {"name": "交通", "id": 44301}], "successors": []}
+{"name": "都營地鐵轉乘車站", "id": 7223512, "predecessors": [{"name": "建築物", "id": 3231846}, {"name": "交通", "id": 44301}], "successors": []}

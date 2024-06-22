@@ -1,1 +1,1 @@
-{"name": "宜蘭線車站", "id": 163417, "predecessors": [{"name": "臺灣鐵路管理局路線", "id": 8608648}, {"name": "交通", "id": 44301}], "successors": []}
+{"name": "宜蘭線車站", "id": 163417, "predecessors": [{"name": "臺灣鐵路公司路線", "id": 1431280}, {"name": "交通", "id": 44301}], "successors": []}

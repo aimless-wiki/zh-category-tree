@@ -1,1 +1,1 @@
-{"name": "條碼", "id": 216967, "predecessors": [{"name": "标准", "id": 66182}, {"name": "编码", "id": 766524}, {"name": "識別符", "id": 1159088}, {"name": "電腦儲存", "id": 65763}], "successors": []}
+{"name": "條碼", "id": 216967, "predecessors": [{"name": "标准", "id": 66182}, {"name": "编码", "id": 766524}, {"name": "識別符", "id": 1159088}, {"name": "電腦架構", "id": 133831}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "暗殺未遂", "id": 1563329, "predecessors": [{"name": "罪案", "id": 160064}, {"name": "侵犯人權", "id": 1574960}], "successors": [{"name": "暗殺未遂倖存者", "id": 1563328}]}
+{"name": "暗殺未遂", "id": 1563329, "predecessors": [{"name": "罪案", "id": 160064}, {"name": "死刑", "id": 122401}], "successors": [{"name": "暗殺未遂倖存者", "id": 1563328}]}

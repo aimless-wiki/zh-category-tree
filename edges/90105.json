@@ -1,1 +1,1 @@
-{"name": "英国医学家", "id": 90105, "predecessors": [{"name": "英国人", "id": 41456}, {"name": "健康照護品質", "id": 6249281}], "successors": []}
+{"name": "英国医学家", "id": 90105, "predecessors": [{"name": "英国人", "id": 41456}, {"name": "健康", "id": 42371}], "successors": [{"name": "英格蘭醫生", "id": 728316}]}

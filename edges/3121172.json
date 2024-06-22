@@ -1,1 +1,1 @@
-{"name": "柏林建築物", "id": 3121172, "predecessors": [{"name": "国家", "id": 33603}, {"name": "社会科学", "id": 41504}], "successors": []}
+{"name": "柏林建築物", "id": 3121172, "predecessors": [{"name": "歐洲國家行政區劃", "id": 1253747}, {"name": "文化", "id": 42322}], "successors": [{"name": "柏林博物馆", "id": 1598612}]}

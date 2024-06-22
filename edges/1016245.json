@@ -1,1 +1,1 @@
-{"name": "軍用雷達", "id": 1016245, "predecessors": [{"name": "雷达", "id": 236629}, {"name": "供應鏈管理", "id": 469766}], "successors": []}
+{"name": "軍用雷達", "id": 1016245, "predecessors": [{"name": "军事学", "id": 805048}], "successors": []}

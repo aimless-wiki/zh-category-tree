@@ -1,1 +1,1 @@
-{"name": "战争法", "id": 1662353, "predecessors": [{"name": "和平", "id": 58101}, {"name": "国际法", "id": 65121}, {"name": "战争", "id": 41427}, {"name": "社会问题", "id": 521516}], "successors": []}
+{"name": "战争法", "id": 1662353, "predecessors": [{"name": "和平", "id": 58101}, {"name": "战争", "id": 41427}, {"name": "军事", "id": 450358}], "successors": []}

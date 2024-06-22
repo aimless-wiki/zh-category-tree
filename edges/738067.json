@@ -1,1 +1,1 @@
-{"name": "荃灣區巴士路線", "id": 738067, "predecessors": [{"name": "荃灣區", "id": 178515}], "successors": []}
+{"name": "荃灣區巴士路線", "id": 738067, "predecessors": [{"name": "荃灣區", "id": 178515}, {"name": "公共交通", "id": 80881}], "successors": []}

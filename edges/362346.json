@@ -1,1 +1,1 @@
-{"name": "黑龙江河流", "id": 362346, "predecessors": [{"name": "黑龙江地理", "id": 255159}], "successors": [{"name": "黑龍江水系", "id": 1176472}]}
+{"name": "黑龙江河流", "id": 362346, "predecessors": [{"name": "水", "id": 80602}], "successors": [{"name": "黑龍江水系", "id": 1176472}]}

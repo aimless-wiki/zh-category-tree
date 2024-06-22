@@ -1,1 +1,1 @@
-{"name": "传热", "id": 1655492, "predecessors": [{"name": "化学工程", "id": 58059}, {"name": "机械工程", "id": 55833}, {"name": "总览", "id": 6349075}], "successors": [{"name": "火", "id": 405987}, {"name": "HVAC", "id": 1499040}, {"name": "恶劣天气与对流", "id": 1714675}]}
+{"name": "传热", "id": 1655492, "predecessors": [{"name": "化学工程", "id": 58059}, {"name": "机械工程", "id": 55833}, {"name": "文化", "id": 42322}], "successors": [{"name": "火", "id": 405987}, {"name": "HVAC", "id": 1499040}]}

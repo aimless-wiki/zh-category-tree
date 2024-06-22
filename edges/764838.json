@@ -1,1 +1,1 @@
-{"name": "堰塞湖", "id": 764838, "predecessors": [{"name": "地质学", "id": 43234}, {"name": "水體", "id": 77215}, {"name": "供水", "id": 1870062}], "successors": []}
+{"name": "堰塞湖", "id": 764838, "predecessors": [{"name": "水體", "id": 77215}, {"name": "水利工程", "id": 72799}], "successors": []}

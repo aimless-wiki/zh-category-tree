@@ -1,1 +1,1 @@
-{"name": "台灣公路橋", "id": 5932838, "predecessors": [{"name": "公共交通", "id": 80881}, {"name": "交通", "id": 44301}, {"name": "建築物", "id": 3231846}], "successors": []}
+{"name": "台灣公路橋", "id": 5932838, "predecessors": [{"name": "建築物", "id": 3231846}, {"name": "交通", "id": 44301}], "successors": []}

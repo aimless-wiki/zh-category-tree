@@ -1,1 +1,1 @@
-{"name": "每日放送製作動畫", "id": 3760800, "predecessors": [{"name": "TBS動畫", "id": 650212}, {"name": "朝日電視台動畫", "id": 528017}, {"name": "广播", "id": 65119}], "successors": [{"name": "每日放送深夜動畫", "id": 2735029}, {"name": "Animeism", "id": 3322494}]}
+{"name": "每日放送製作動畫", "id": 3760800, "predecessors": [{"name": "TBS動畫", "id": 650212}, {"name": "朝日電視台動畫", "id": 528017}, {"name": "三和集團", "id": 5738585}, {"name": "组织", "id": 42377}], "successors": [{"name": "每日放送深夜動畫", "id": 2735029}, {"name": "Animeism", "id": 3322494}]}

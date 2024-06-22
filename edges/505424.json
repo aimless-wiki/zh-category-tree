@@ -1,1 +1,1 @@
-{"name": "Netscape", "id": 505424, "predecessors": [{"name": "美國已結業公司", "id": 1797266}], "successors": []}
+{"name": "Netscape", "id": 505424, "predecessors": [{"name": "Mozilla", "id": 196672}, {"name": "美國已結業公司", "id": 1797266}], "successors": [{"name": "Mozilla", "id": 196672}]}

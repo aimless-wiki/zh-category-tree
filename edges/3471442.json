@@ -1,1 +1,1 @@
-{"name": "Xbox_One遊戲", "id": 3471442, "predecessors": [{"name": "操作系统", "id": 33605}, {"name": "微軟", "id": 83434}, {"name": "软件", "id": 322354}], "successors": [{"name": "Kinect游戏", "id": 2770864}, {"name": "Xbox_One游戏封面", "id": 3600603}, {"name": "Xbox_One_X增强游戏", "id": 6081740}]}
+{"name": "Xbox_One遊戲", "id": 3471442, "predecessors": [{"name": "操作系统", "id": 33605}, {"name": "微軟", "id": 83434}], "successors": [{"name": "Kinect游戏", "id": 2770864}, {"name": "Xbox_One游戏封面", "id": 3600603}, {"name": "Xbox_One_X增强游戏", "id": 6081740}]}

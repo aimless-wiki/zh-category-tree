@@ -1,1 +1,1 @@
-{"name": "垃圾", "id": 1553344, "predecessors": [{"name": "污染", "id": 65705}, {"name": "环境问题", "id": 1378836}], "successors": [{"name": "廢棄物處理", "id": 736658}, {"name": "糞便", "id": 980818}]}
+{"name": "垃圾", "id": 1553344, "predecessors": [{"name": "污染", "id": 65705}, {"name": "社会问题", "id": 521516}], "successors": [{"name": "廢棄物處理", "id": 736658}]}

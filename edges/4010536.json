@@ -1,1 +1,1 @@
-{"name": "JavaScript", "id": 4010536, "predecessors": [{"name": "脚本语言", "id": 59429}, {"name": "程序设计语言", "id": 44415}, {"name": "編程典範", "id": 44961}], "successors": [{"name": "AJAX", "id": 770719}, {"name": "JavaScript函式庫", "id": 3342138}]}
+{"name": "JavaScript", "id": 4010536, "predecessors": [{"name": "脚本语言", "id": 59429}], "successors": [{"name": "AJAX", "id": 770719}]}

@@ -1,1 +1,1 @@
-{"name": "数字信号处理", "id": 46518, "predecessors": [{"name": "應用數學", "id": 52424}], "successors": [{"name": "图像处理", "id": 337822}]}
+{"name": "数字信号处理", "id": 46518, "predecessors": [{"name": "信号处理", "id": 72436}, {"name": "應用數學", "id": 52424}], "successors": [{"name": "图像处理", "id": 337822}]}

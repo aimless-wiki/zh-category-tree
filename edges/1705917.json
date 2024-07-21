@@ -1,1 +1,1 @@
-{"name": "Android設備", "id": 1705917, "predecessors": [{"name": "Android", "id": 1280526}, {"name": "嵌入式Linux", "id": 1155461}], "successors": [{"name": "小米手机", "id": 4769967}, {"name": "三星Galaxy", "id": 5247904}]}
+{"name": "Android設備", "id": 1705917, "predecessors": [{"name": "Android", "id": 1280526}, {"name": "嵌入式Linux", "id": 1155461}], "successors": [{"name": "小米手机", "id": 4769967}, {"name": "三星Galaxy", "id": 5247904}, {"name": "Google_Pixel", "id": 5552559}]}

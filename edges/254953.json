@@ -1,1 +1,1 @@
-{"name": "自动机", "id": 254953, "predecessors": [{"name": "計算理論", "id": 54876}, {"name": "计算模型", "id": 677074}, {"name": "数据建模", "id": 162377}], "successors": []}
+{"name": "自动机", "id": 254953, "predecessors": [{"name": "計算理論", "id": 54876}, {"name": "数据建模", "id": 162377}], "successors": []}

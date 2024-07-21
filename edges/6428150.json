@@ -1,1 +1,1 @@
-{"name": "雷恩地铁车站", "id": 6428150, "predecessors": [{"name": "公共交通", "id": 80881}, {"name": "城市", "id": 42675}], "successors": []}
+{"name": "雷恩地铁车站", "id": 6428150, "predecessors": [{"name": "公共交通", "id": 80881}, {"name": "城市轨道交通", "id": 281040}], "successors": []}

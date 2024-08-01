@@ -1,1 +1,1 @@
-{"name": "苯酚", "id": 7788626, "predecessors": [{"name": "苯基化合物", "id": 1661991}], "successors": [{"name": "邻苯二酚", "id": 1521199}, {"name": "间苯二酚", "id": 1538468}]}
+{"name": "苯酚", "id": 7788626, "predecessors": [{"name": "苯基化合物", "id": 1661991}, {"name": "酚", "id": 81920}], "successors": []}

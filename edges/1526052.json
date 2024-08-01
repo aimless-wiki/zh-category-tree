@@ -1,1 +1,1 @@
-{"name": "雌激素类", "id": 1526052, "predecessors": [{"name": "健康照護", "id": 358696}], "successors": [{"name": "合成雌激素类", "id": 1526056}]}
+{"name": "雌激素类", "id": 1526052, "predecessors": [{"name": "生殖系统", "id": 76983}, {"name": "健康照護", "id": 358696}], "successors": [{"name": "合成雌激素类", "id": 1526056}]}

@@ -1,1 +1,1 @@
-{"name": "京阪電氣鐵道轉乘車站", "id": 7879981, "predecessors": [{"name": "大阪府鐵路", "id": 6308667}], "successors": []}
+{"name": "京阪電氣鐵道轉乘車站", "id": 7879981, "predecessors": [{"name": "鐵路", "id": 485584}, {"name": "鐵路車站", "id": 81216}], "successors": []}

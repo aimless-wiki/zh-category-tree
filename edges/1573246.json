@@ -1,1 +1,1 @@
-{"name": "生物多樣性", "id": 1573246, "predecessors": [{"name": "生物学", "id": 35877}, {"name": "自然保育", "id": 1573235}, {"name": "公共卫生", "id": 341232}, {"name": "生態學", "id": 65019}], "successors": []}
+{"name": "生物多樣性", "id": 1573246, "predecessors": [{"name": "自然保育", "id": 1573235}, {"name": "公共卫生", "id": 341232}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "懷孕", "id": 1163113, "predecessors": [{"name": "抽象", "id": 42487}], "successors": [{"name": "助产术", "id": 1693341}]}
+{"name": "懷孕", "id": 1163113, "predecessors": [{"name": "親屬關係", "id": 470429}, {"name": "繁殖", "id": 634067}], "successors": [{"name": "助产术", "id": 1693341}]}

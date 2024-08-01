@@ -1,1 +1,1 @@
-{"name": "粵語電影", "id": 1118235, "predecessors": [{"name": "粵語", "id": 64219}, {"name": "文化", "id": 42322}], "successors": [{"name": "香港粵語片演員", "id": 573055}]}
+{"name": "粵語電影", "id": 1118235, "predecessors": [{"name": "文化", "id": 42322}, {"name": "華語電影", "id": 726996}], "successors": [{"name": "香港粵語片演員", "id": 573055}]}

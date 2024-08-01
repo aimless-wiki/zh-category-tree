@@ -1,1 +1,1 @@
-{"name": "神經系統疾病", "id": 425754, "predecessors": [{"name": "神經內科", "id": 4969801}, {"name": "健康", "id": 42371}], "successors": [{"name": "罹患阿茲海默症逝世者", "id": 4733307}]}
+{"name": "神經系統疾病", "id": 425754, "predecessors": [{"name": "神經內科", "id": 4969801}, {"name": "疾病", "id": 52452}, {"name": "健康", "id": 42371}], "successors": []}

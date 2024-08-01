@@ -1,1 +1,1 @@
-{"name": "遇刺身亡者", "id": 439451, "predecessors": [{"name": "司法", "id": 545519}, {"name": "死刑", "id": 122401}], "successors": []}
+{"name": "遇刺身亡者", "id": 439451, "predecessors": [{"name": "司法", "id": 545519}, {"name": "侵犯人權", "id": 1574960}], "successors": [{"name": "遇刺身亡的政治人物", "id": 1594729}]}

@@ -1,1 +1,1 @@
-{"name": "白酒", "id": 4814812, "predecessors": [{"name": "中國酒", "id": 332251}, {"name": "蒸餾酒", "id": 337767}], "successors": []}
+{"name": "白酒", "id": 4814812, "predecessors": [{"name": "中國酒", "id": 332251}, {"name": "文化", "id": 42322}], "successors": []}

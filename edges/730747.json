@@ -1,1 +1,1 @@
-{"name": "酸碱化学", "id": 730747, "predecessors": [{"name": "化学分支", "id": 5516938}, {"name": "平衡化学", "id": 1553957}], "successors": [{"name": "酸碱指示剂", "id": 450366}]}
+{"name": "酸碱化学", "id": 730747, "predecessors": [{"name": "平衡化学", "id": 1553957}], "successors": [{"name": "酸碱指示剂", "id": 450366}, {"name": "氨基酸", "id": 80593}]}

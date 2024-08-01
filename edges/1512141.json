@@ -1,1 +1,1 @@
-{"name": "虛構歌手", "id": 1512141, "predecessors": [{"name": "虛構藝人", "id": 1719871}, {"name": "文化", "id": 42322}], "successors": [{"name": "初音未来歌曲", "id": 7916999}]}
+{"name": "虛構歌手", "id": 1512141, "predecessors": [{"name": "歌唱", "id": 70660}, {"name": "虛構藝人", "id": 1719871}], "successors": [{"name": "初音未来歌曲", "id": 7916999}]}

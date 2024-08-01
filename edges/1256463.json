@@ -1,1 +1,1 @@
-{"name": "新约圣经书籍", "id": 1256463, "predecessors": [{"name": "出版", "id": 455412}, {"name": "文化", "id": 42322}], "successors": [{"name": "耶穌的比喻", "id": 271663}]}
+{"name": "新约圣经书籍", "id": 1256463, "predecessors": [{"name": "宗教", "id": 33582}, {"name": "出版", "id": 455412}, {"name": "虛構", "id": 69954}], "successors": [{"name": "耶穌的比喻", "id": 271663}]}

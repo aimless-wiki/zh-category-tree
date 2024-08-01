@@ -1,1 +1,1 @@
-{"name": "罕見疾病", "id": 1146482, "predecessors": [{"name": "疾病", "id": 52452}, {"name": "文化", "id": 42322}], "successors": []}
+{"name": "罕見疾病", "id": 1146482, "predecessors": [{"name": "疾病", "id": 52452}, {"name": "評價方法", "id": 1601893}], "successors": [{"name": "罕見疾病症候群", "id": 5919148}]}

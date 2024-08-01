@@ -1,1 +1,1 @@
-{"name": "物理有机化学", "id": 762430, "predecessors": [{"name": "有机化学", "id": 43562}, {"name": "物理化学", "id": 83015}], "successors": [{"name": "反应机理", "id": 716274}]}
+{"name": "物理有机化学", "id": 762430, "predecessors": [{"name": "物理化学", "id": 83015}], "successors": [{"name": "反应机理", "id": 716274}]}

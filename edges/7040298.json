@@ -1,1 +1,1 @@
-{"name": "西藏动物", "id": 7040298, "predecessors": [{"name": "西藏地理", "id": 190709}], "successors": [{"name": "西藏哺乳動物", "id": 7040297}]}
+{"name": "西藏动物", "id": 7040298, "predecessors": [{"name": "西藏地理", "id": 190709}, {"name": "環境", "id": 65994}], "successors": [{"name": "西藏哺乳動物", "id": 7040297}]}

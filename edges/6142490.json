@@ -1,1 +1,1 @@
-{"name": "环己基化合物", "id": 6142490, "predecessors": [{"name": "烷烃", "id": 43571}], "successors": [{"name": "固醇", "id": 1580148}]}
+{"name": "环己基化合物", "id": 6142490, "predecessors": [{"name": "六元环", "id": 1122817}, {"name": "烷烃", "id": 43571}], "successors": [{"name": "固醇", "id": 1580148}]}

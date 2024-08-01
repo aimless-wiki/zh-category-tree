@@ -1,1 +1,1 @@
-{"name": "角", "id": 705309, "predecessors": [{"name": "三角学", "id": 35543}, {"name": "初等几何", "id": 705306}, {"name": "经典力学", "id": 120464}, {"name": "几何学", "id": 35661}], "successors": []}
+{"name": "角", "id": 705309, "predecessors": [{"name": "三角学", "id": 35543}, {"name": "初等几何", "id": 705306}, {"name": "力學", "id": 65039}, {"name": "几何学", "id": 35661}], "successors": []}

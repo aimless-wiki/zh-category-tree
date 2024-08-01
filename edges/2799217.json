@@ -1,1 +1,1 @@
-{"name": "中国战争片", "id": 2799217, "predecessors": [{"name": "战争", "id": 41427}, {"name": "文化", "id": 42322}], "successors": []}
+{"name": "中国战争片", "id": 2799217, "predecessors": [{"name": "文化", "id": 42322}, {"name": "战争", "id": 41427}, {"name": "虛構", "id": 69954}], "successors": [{"name": "香港戰爭片", "id": 1454414}]}

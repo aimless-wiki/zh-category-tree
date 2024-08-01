@@ -1,1 +1,1 @@
-{"name": "计算机逻辑", "id": 166705, "predecessors": [{"name": "數理邏輯", "id": 54297}], "successors": []}
+{"name": "计算机逻辑", "id": 166705, "predecessors": [{"name": "數理邏輯", "id": 54297}, {"name": "计算机科学", "id": 326427}], "successors": []}

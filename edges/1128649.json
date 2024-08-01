@@ -1,1 +1,1 @@
-{"name": "美国海军核动力舰只", "id": 1128649, "predecessors": [{"name": "核能技術", "id": 70754}], "successors": []}
+{"name": "美国海军核动力舰只", "id": 1128649, "predecessors": [{"name": "美国海军舰艇", "id": 454248}, {"name": "核能技術", "id": 70754}], "successors": []}

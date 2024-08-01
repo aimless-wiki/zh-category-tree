@@ -1,1 +1,1 @@
-{"name": "烤餅", "id": 442177, "predecessors": [{"name": "燒烤", "id": 271104}, {"name": "麵包", "id": 270735}], "successors": []}
+{"name": "烤餅", "id": 442177, "predecessors": [{"name": "麵包", "id": 270735}], "successors": []}

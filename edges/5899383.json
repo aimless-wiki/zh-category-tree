@@ -1,1 +1,1 @@
-{"name": "中国编舞家", "id": 5899383, "predecessors": [{"name": "舞蹈", "id": 42643}], "successors": []}
+{"name": "中国编舞家", "id": 5899383, "predecessors": [{"name": "舞蹈", "id": 42643}, {"name": "中国文化", "id": 33600}, {"name": "表演藝術", "id": 58285}], "successors": []}

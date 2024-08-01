@@ -1,1 +1,1 @@
-{"name": "面積單位", "id": 52519, "predecessors": [{"name": "计量单位", "id": 533068}], "successors": []}
+{"name": "面積單位", "id": 52519, "predecessors": [{"name": "计量单位", "id": 533068}, {"name": "几何学", "id": 35661}], "successors": []}

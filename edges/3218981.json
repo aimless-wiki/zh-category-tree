@@ -1,1 +1,1 @@
-{"name": "航空母艦艦級", "id": 3218981, "predecessors": [{"name": "軍艦等級", "id": 5371696}, {"name": "军事", "id": 450358}], "successors": []}
+{"name": "航空母艦艦級", "id": 3218981, "predecessors": [{"name": "軍艦等級", "id": 5371696}, {"name": "建築物", "id": 3231846}], "successors": [{"name": "艾塞克斯級航空母艦", "id": 3219037}]}

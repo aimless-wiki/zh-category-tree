@@ -1,1 +1,1 @@
-{"name": "駿遠線車站", "id": 6434714, "predecessors": [{"name": "土木工程", "id": 80121}], "successors": []}
+{"name": "駿遠線車站", "id": 6434714, "predecessors": [{"name": "日本已停用的鐵路線", "id": 1073392}, {"name": "鐵路", "id": 485584}], "successors": []}

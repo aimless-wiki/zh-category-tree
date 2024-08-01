@@ -1,1 +1,1 @@
-{"name": "照相机", "id": 91650, "predecessors": [{"name": "摄影器材", "id": 909750}, {"name": "数据管理", "id": 161344}], "successors": [{"name": "佳能相機", "id": 1559849}]}
+{"name": "照相机", "id": 91650, "predecessors": [{"name": "摄影器材", "id": 909750}, {"name": "系统工程", "id": 789917}], "successors": [{"name": "佳能相機", "id": 1559849}]}

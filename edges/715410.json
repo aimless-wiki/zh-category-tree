@@ -1,1 +1,1 @@
-{"name": "文書處理器", "id": 715410, "predecessors": [{"name": "工具", "id": 65701}, {"name": "嵌入式系统", "id": 97396}, {"name": "软件", "id": 322354}], "successors": []}
+{"name": "文書處理器", "id": 715410, "predecessors": [{"name": "文具", "id": 69059}, {"name": "软件", "id": 322354}], "successors": []}

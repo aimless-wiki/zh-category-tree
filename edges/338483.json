@@ -1,1 +1,1 @@
-{"name": "魚雷", "id": 338483, "predecessors": [{"name": "海軍武器", "id": 467511}, {"name": "爆炸物", "id": 80700}, {"name": "军舰", "id": 35535}], "successors": []}
+{"name": "魚雷", "id": 338483, "predecessors": [{"name": "海軍武器", "id": 467511}, {"name": "爆炸物", "id": 80700}, {"name": "海戰", "id": 756721}], "successors": []}

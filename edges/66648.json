@@ -1,1 +1,1 @@
-{"name": "曲線", "id": 66648, "predecessors": [{"name": "几何形状", "id": 705292}, {"name": "微分几何", "id": 130666}], "successors": [{"name": "圆", "id": 705311}]}
+{"name": "曲線", "id": 66648, "predecessors": [{"name": "微分几何", "id": 130666}], "successors": []}

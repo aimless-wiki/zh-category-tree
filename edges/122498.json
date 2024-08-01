@@ -1,1 +1,1 @@
-{"name": "男性生殖系统", "id": 122498, "predecessors": [], "successors": [{"name": "人類陰莖", "id": 6733486}]}
+{"name": "男性生殖系统", "id": 122498, "predecessors": [{"name": "生殖系统", "id": 76983}, {"name": "繁殖", "id": 634067}], "successors": [{"name": "人類陰莖", "id": 6733486}]}

@@ -1,1 +1,1 @@
-{"name": "地球化學", "id": 483585, "predecessors": [{"name": "化学分支", "id": 5516938}, {"name": "地球科学", "id": 42997}], "successors": [{"name": "礦物學", "id": 790216}]}
+{"name": "地球化學", "id": 483585, "predecessors": [{"name": "地球科学", "id": 42997}], "successors": [{"name": "礦物學", "id": 790216}, {"name": "中国地球化学家", "id": 7635890}]}

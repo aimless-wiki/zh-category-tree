@@ -1,1 +1,1 @@
-{"name": "日本觀光列車", "id": 7990782, "predecessors": [{"name": "經濟地理學", "id": 1167992}], "successors": []}
+{"name": "日本觀光列車", "id": 7990782, "predecessors": [{"name": "日本鐵路", "id": 219206}, {"name": "經濟地理學", "id": 1167992}], "successors": []}

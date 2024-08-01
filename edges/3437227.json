@@ -1,1 +1,1 @@
-{"name": "改信伊斯蘭教者", "id": 3437227, "predecessors": [{"name": "宗教活動", "id": 266034}, {"name": "湧現", "id": 6011280}], "successors": []}
+{"name": "改信伊斯蘭教者", "id": 3437227, "predecessors": [{"name": "宗教", "id": 33582}, {"name": "人口学", "id": 41503}], "successors": [{"name": "由基督教改信伊斯蘭教者", "id": 3437228}]}

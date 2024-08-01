@@ -1,1 +1,1 @@
-{"name": "张量", "id": 569394, "predecessors": [{"name": "微分几何", "id": 130666}, {"name": "物理量", "id": 35874}], "successors": []}
+{"name": "张量", "id": 569394, "predecessors": [{"name": "微分几何", "id": 130666}, {"name": "物理量", "id": 35874}, {"name": "線性代數", "id": 70725}], "successors": []}

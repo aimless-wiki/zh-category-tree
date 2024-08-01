@@ -1,1 +1,1 @@
-{"name": "工程車輛", "id": 569257, "predecessors": [{"name": "土木工程", "id": 80121}, {"name": "工业", "id": 78034}, {"name": "交通", "id": 44301}], "successors": []}
+{"name": "工程車輛", "id": 569257, "predecessors": [{"name": "土木工程", "id": 80121}, {"name": "工业", "id": 78034}, {"name": "文化", "id": 42322}], "successors": []}

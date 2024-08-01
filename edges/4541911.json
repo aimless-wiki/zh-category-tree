@@ -1,1 +1,1 @@
-{"name": "中島飛機製造的飛機", "id": 4541911, "predecessors": [{"name": "产业", "id": 58086}, {"name": "日本軍事工業", "id": 5381366}], "successors": []}
+{"name": "中島飛機製造的飛機", "id": 4541911, "predecessors": [{"name": "日本軍事工業", "id": 5381366}, {"name": "供應鏈管理", "id": 469766}], "successors": []}

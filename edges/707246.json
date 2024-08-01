@@ -1,1 +1,1 @@
-{"name": "藻類", "id": 707246, "predecessors": [{"name": "文化", "id": 42322}], "successors": [{"name": "硅藻纲", "id": 433607}]}
+{"name": "藻類", "id": 707246, "predecessors": [{"name": "並系群", "id": 6296583}, {"name": "原生生物", "id": 298616}, {"name": "藻類", "id": 707246}], "successors": [{"name": "硅藻纲", "id": 433607}, {"name": "藻類", "id": 707246}, {"name": "珊瑚藻科", "id": 7672557}]}

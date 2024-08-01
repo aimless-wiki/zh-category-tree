@@ -1,1 +1,1 @@
-{"name": "氣象機構", "id": 495724, "predecessors": [{"name": "气象学", "id": 65213}, {"name": "组织", "id": 42377}], "successors": [{"name": "日本氣象廳", "id": 3398834}]}
+{"name": "氣象機構", "id": 495724, "predecessors": [{"name": "气象学", "id": 65213}], "successors": [{"name": "日本氣象廳", "id": 3398834}, {"name": "中国气象学会模板", "id": 8250365}]}

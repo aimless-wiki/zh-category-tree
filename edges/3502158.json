@@ -1,1 +1,1 @@
-{"name": "钙通道阻滞药", "id": 3502158, "predecessors": [{"name": "抗高血压药物", "id": 709563}, {"name": "健康照護", "id": 358696}], "successors": []}
+{"name": "钙通道阻滞药", "id": 3502158, "predecessors": [{"name": "抗高血压药物", "id": 709563}, {"name": "生物物理学", "id": 117771}, {"name": "健康照護", "id": 358696}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "巡洋舰船级", "id": 6103866, "predecessors": [{"name": "軍艦等級", "id": 5371696}, {"name": "军事学", "id": 805048}], "successors": []}
+{"name": "巡洋舰船级", "id": 6103866, "predecessors": [{"name": "軍艦等級", "id": 5371696}, {"name": "军舰", "id": 35535}], "successors": []}

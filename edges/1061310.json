@@ -1,1 +1,1 @@
-{"name": "俄羅斯槍械", "id": 1061310, "predecessors": [{"name": "供應鏈管理", "id": 469766}], "successors": [{"name": "蘇聯槍械", "id": 3034783}]}
+{"name": "俄羅斯槍械", "id": 1061310, "predecessors": [{"name": "武器", "id": 39124}], "successors": [{"name": "蘇聯槍械", "id": 3034783}]}

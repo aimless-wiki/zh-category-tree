@@ -1,1 +1,1 @@
-{"name": "黑客", "id": 65989, "predecessors": [{"name": "電腦安全", "id": 65992}, {"name": "維基百科管理", "id": 501839}], "successors": []}
+{"name": "黑客", "id": 65989, "predecessors": [{"name": "程序员", "id": 80526}, {"name": "電腦安全", "id": 65992}, {"name": "維基百科管理", "id": 501839}], "successors": []}

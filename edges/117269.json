@@ -1,1 +1,1 @@
-{"name": "质量单位", "id": 117269, "predecessors": [{"name": "计量单位", "id": 533068}], "successors": []}
+{"name": "质量单位", "id": 117269, "predecessors": [{"name": "计量单位", "id": 533068}, {"name": "質量", "id": 564417}], "successors": []}

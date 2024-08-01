@@ -1,1 +1,1 @@
-{"name": "硝基苯", "id": 1521886, "predecessors": [{"name": "烃", "id": 1736006}], "successors": []}
+{"name": "硝基苯", "id": 1521886, "predecessors": [{"name": "硝基化合物", "id": 698100}, {"name": "六元环", "id": 1122817}], "successors": []}

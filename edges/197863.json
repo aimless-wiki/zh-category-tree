@@ -1,1 +1,1 @@
-{"name": "青铜器", "id": 197863, "predecessors": [{"name": "金屬加工", "id": 78002}, {"name": "美術材料", "id": 656157}], "successors": []}
+{"name": "青铜器", "id": 197863, "predecessors": [{"name": "金屬加工", "id": 78002}, {"name": "装饰艺术", "id": 1805920}, {"name": "合金", "id": 455427}], "successors": [{"name": "鼎", "id": 914681}]}

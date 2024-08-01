@@ -1,1 +1,1 @@
-{"name": "越南鐵路車站", "id": 1868046, "predecessors": [{"name": "建築物", "id": 3231846}], "successors": []}
+{"name": "越南鐵路車站", "id": 1868046, "predecessors": [{"name": "虛構", "id": 69954}, {"name": "建築物", "id": 3231846}, {"name": "鐵路", "id": 485584}], "successors": [{"name": "河內都市鐵路車站", "id": 6526556}]}

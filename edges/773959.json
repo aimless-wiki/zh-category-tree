@@ -1,1 +1,1 @@
-{"name": "卤代甲烷", "id": 773959, "predecessors": [{"name": "烷烃", "id": 43571}, {"name": "公共卫生", "id": 341232}], "successors": []}
+{"name": "卤代甲烷", "id": 773959, "predecessors": [{"name": "一碳有机物", "id": 1662952}, {"name": "烷烃", "id": 43571}], "successors": []}

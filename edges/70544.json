@@ -1,1 +1,1 @@
-{"name": "群论", "id": 70544, "predecessors": [{"name": "抽象代数", "id": 70606}], "successors": [{"name": "李群", "id": 450356}, {"name": "有限群", "id": 451437}, {"name": "整数", "id": 46945}]}
+{"name": "群论", "id": 70544, "predecessors": [{"name": "抽象代数", "id": 70606}], "successors": [{"name": "李群", "id": 450356}]}

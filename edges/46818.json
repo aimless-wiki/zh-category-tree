@@ -1,1 +1,1 @@
-{"name": "鸡尾酒", "id": 46818, "predecessors": [{"name": "温度", "id": 78153}, {"name": "嗜好", "id": 66054}, {"name": "精神药物", "id": 3885321}], "successors": []}
+{"name": "鸡尾酒", "id": 46818, "predecessors": [{"name": "飲食", "id": 66265}, {"name": "精神药物", "id": 3885321}], "successors": []}

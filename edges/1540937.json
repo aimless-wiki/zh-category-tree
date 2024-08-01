@@ -1,1 +1,1 @@
-{"name": "细胞色素P450", "id": 1540937, "predecessors": [{"name": "药代动力学", "id": 1540829}], "successors": [{"name": "CYP3A4抑制剂", "id": 8206078}, {"name": "CYP2D6抑制剂", "id": 8263202}]}
+{"name": "细胞色素P450", "id": 1540937, "predecessors": [{"name": "内在膜蛋白", "id": 800069}, {"name": "酶", "id": 43816}, {"name": "鐵化合物", "id": 589979}], "successors": [{"name": "CYP3A4抑制剂", "id": 8206078}, {"name": "CYP2D6抑制剂", "id": 8263202}]}

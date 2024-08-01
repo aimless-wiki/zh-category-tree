@@ -1,1 +1,1 @@
-{"name": "量子化学", "id": 111247, "predecessors": [{"name": "物理化学", "id": 83015}, {"name": "量子力学", "id": 123370}, {"name": "化学分支", "id": 5516938}], "successors": []}
+{"name": "量子化学", "id": 111247, "predecessors": [{"name": "物理化学", "id": 83015}], "successors": []}

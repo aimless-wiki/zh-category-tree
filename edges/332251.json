@@ -1,1 +1,1 @@
-{"name": "中國酒", "id": 332251, "predecessors": [{"name": "精神药物", "id": 3885321}], "successors": [{"name": "黃酒", "id": 337837}, {"name": "白酒", "id": 4814812}, {"name": "中国制酒商", "id": 1561603}]}
+{"name": "中國酒", "id": 332251, "predecessors": [{"name": "文化", "id": 42322}], "successors": [{"name": "黃酒", "id": 337837}, {"name": "白酒", "id": 4814812}]}

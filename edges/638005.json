@@ -1,1 +1,1 @@
-{"name": "在华天主教传教士", "id": 638005, "predecessors": [{"name": "在华基督教传教士", "id": 638010}], "successors": []}
+{"name": "在华天主教传教士", "id": 638005, "predecessors": [{"name": "在华基督教传教士", "id": 638010}, {"name": "天主教", "id": 66385}, {"name": "文化同化", "id": 1300853}], "successors": []}

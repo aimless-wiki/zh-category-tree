@@ -1,1 +1,1 @@
-{"name": "太阳探测卫星", "id": 518181, "predecessors": [{"name": "太阳", "id": 41889}, {"name": "人造衛星", "id": 65918}, {"name": "交通", "id": 44301}, {"name": "天文学史", "id": 76450}], "successors": []}
+{"name": "太阳探测卫星", "id": 518181, "predecessors": [{"name": "太阳", "id": 41889}, {"name": "人造衛星", "id": 65918}, {"name": "文化", "id": 42322}, {"name": "度量", "id": 415858}], "successors": []}

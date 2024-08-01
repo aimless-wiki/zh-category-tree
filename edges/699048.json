@@ -1,1 +1,1 @@
-{"name": "日本巴士公司", "id": 699048, "predecessors": [{"name": "公共交通", "id": 80881}, {"name": "文化", "id": 42322}], "successors": [{"name": "荒川線車站", "id": 6495432}]}
+{"name": "日本巴士公司", "id": 699048, "predecessors": [{"name": "组织", "id": 42377}, {"name": "公共交通", "id": 80881}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "三神", "id": 1920541, "predecessors": [{"name": "眾神", "id": 2959839}], "successors": []}
+{"name": "三神", "id": 1920541, "predecessors": [{"name": "眾神", "id": 2959839}, {"name": "整数", "id": 46945}], "successors": [{"name": "台灣三山國王廟", "id": 6733859}, {"name": "元宵節", "id": 654577}]}

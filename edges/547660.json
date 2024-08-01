@@ -1,1 +1,1 @@
-{"name": "半导体器件制造", "id": 547660, "predecessors": [{"name": "电子工程", "id": 58072}], "successors": []}
+{"name": "半导体器件制造", "id": 547660, "predecessors": [{"name": "半導體", "id": 552291}, {"name": "电子工程", "id": 58072}], "successors": []}

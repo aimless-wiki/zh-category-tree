@@ -1,1 +1,1 @@
-{"name": "Unix", "id": 93929, "predecessors": [{"name": "操作系统", "id": 33605}], "successors": [{"name": "Unix软件", "id": 451600}, {"name": "Linux", "id": 51411}, {"name": "MacOS", "id": 1845228}, {"name": "X_Window系统", "id": 1156320}]}
+{"name": "Unix", "id": 93929, "predecessors": [{"name": "操作系统", "id": 33605}], "successors": [{"name": "Linux", "id": 51411}, {"name": "MacOS", "id": 1845228}, {"name": "X_Window系统", "id": 1156320}]}

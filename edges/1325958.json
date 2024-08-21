@@ -1,1 +1,1 @@
-{"name": "台灣命名列車", "id": 1325958, "predecessors": [{"name": "鐵路列車", "id": 698153}, {"name": "鐵路", "id": 485584}], "successors": []}
+{"name": "台灣命名列車", "id": 1325958, "predecessors": [{"name": "鐵路列車", "id": 698153}, {"name": "公共交通", "id": 80881}], "successors": []}

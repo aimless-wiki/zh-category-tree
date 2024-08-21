@@ -1,1 +1,1 @@
-{"name": "京沪铁路车站", "id": 596493, "predecessors": [{"name": "上海市铁路", "id": 214078}, {"name": "鐵路", "id": 485584}], "successors": []}
+{"name": "京沪铁路车站", "id": 596493, "predecessors": [{"name": "上海市铁路", "id": 214078}, {"name": "公共交通", "id": 80881}], "successors": []}

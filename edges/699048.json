@@ -1,1 +1,1 @@
-{"name": "日本巴士公司", "id": 699048, "predecessors": [{"name": "组织", "id": 42377}, {"name": "公共交通", "id": 80881}], "successors": []}
+{"name": "日本巴士公司", "id": 699048, "predecessors": [{"name": "组织", "id": 42377}, {"name": "巴士", "id": 77974}, {"name": "公共交通", "id": 80881}], "successors": []}

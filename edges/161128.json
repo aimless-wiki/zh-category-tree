@@ -1,1 +1,1 @@
-{"name": "屏東線車站", "id": 161128, "predecessors": [{"name": "虛構", "id": 69954}, {"name": "鐵路", "id": 485584}], "successors": []}
+{"name": "屏東線車站", "id": 161128, "predecessors": [{"name": "虛構", "id": 69954}, {"name": "公共交通", "id": 80881}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "日本纜索鐵路", "id": 6358962, "predecessors": [{"name": "日本鐵路", "id": 219206}, {"name": "鐵路", "id": 485584}], "successors": []}
+{"name": "日本纜索鐵路", "id": 6358962, "predecessors": [{"name": "日本鐵路", "id": 219206}, {"name": "公共交通", "id": 80881}], "successors": []}

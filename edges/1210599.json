@@ -1,1 +1,1 @@
-{"name": "食療", "id": 1210599, "predecessors": [{"name": "飲食", "id": 66265}, {"name": "民俗學", "id": 110879}, {"name": "中医", "id": 45946}], "successors": [{"name": "涼茶", "id": 303571}]}
+{"name": "食療", "id": 1210599, "predecessors": [{"name": "健康", "id": 42371}, {"name": "民俗學", "id": 110879}, {"name": "中医", "id": 45946}], "successors": [{"name": "涼茶", "id": 303571}]}

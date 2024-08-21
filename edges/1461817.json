@@ -1,1 +1,1 @@
-{"name": "西成客运专线车站", "id": 1461817, "predecessors": [{"name": "鐵路", "id": 485584}], "successors": []}
+{"name": "西成客运专线车站", "id": 1461817, "predecessors": [{"name": "公共交通", "id": 80881}], "successors": []}

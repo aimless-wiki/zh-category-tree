@@ -1,1 +1,1 @@
-{"name": "速食餐廳", "id": 74389, "predecessors": [{"name": "飲食", "id": 66265}], "successors": [{"name": "美國連鎖速食店", "id": 4128423}, {"name": "麥當勞", "id": 555565}]}
+{"name": "速食餐廳", "id": 74389, "predecessors": [{"name": "健康", "id": 42371}], "successors": [{"name": "美國連鎖速食店", "id": 4128423}, {"name": "麥當勞", "id": 555565}]}

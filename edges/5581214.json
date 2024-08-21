@@ -1,1 +1,1 @@
-{"name": "互联网安全", "id": 5581214, "predecessors": [{"name": "互联网", "id": 321014}, {"name": "网络安全", "id": 345277}], "successors": []}
+{"name": "互联网安全", "id": 5581214, "predecessors": [{"name": "互联网", "id": 321014}, {"name": "网络安全", "id": 345277}], "successors": [{"name": "阻斷服務攻擊", "id": 650816}]}

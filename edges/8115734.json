@@ -1,1 +1,1 @@
-{"name": "有聲書旁白者", "id": 8115734, "predecessors": [{"name": "大眾媒體", "id": 58343}, {"name": "聲音儲存", "id": 65776}], "successors": []}
+{"name": "有聲書旁白者", "id": 8115734, "predecessors": [{"name": "聲音儲存", "id": 65776}, {"name": "虛構", "id": 69954}], "successors": []}

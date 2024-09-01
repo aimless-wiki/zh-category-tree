@@ -1,1 +1,1 @@
-{"name": "Netflix原創動畫電影", "id": 8252422, "predecessors": [{"name": "Netflix原創動畫", "id": 6919235}, {"name": "動畫", "id": 64212}, {"name": "文化", "id": 42322}], "successors": []}
+{"name": "Netflix原創動畫電影", "id": 8252422, "predecessors": [{"name": "Netflix原創動畫", "id": 6919235}, {"name": "文化", "id": 42322}, {"name": "产业", "id": 58086}, {"name": "動畫", "id": 64212}], "successors": []}

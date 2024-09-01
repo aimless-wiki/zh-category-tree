@@ -1,1 +1,1 @@
-{"name": "死於霍亂的人", "id": 4496294, "predecessors": [{"name": "传染病", "id": 44408}], "successors": []}
+{"name": "死於霍亂的人", "id": 4496294, "predecessors": [{"name": "微生物学", "id": 44407}, {"name": "传染病", "id": 44408}, {"name": "消化系統疾病", "id": 317170}], "successors": []}

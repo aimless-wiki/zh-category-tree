@@ -1,1 +1,1 @@
-{"name": "糖蛋白", "id": 640563, "predecessors": [{"name": "蛋白质", "id": 43818}], "successors": [{"name": "单克隆抗体类", "id": 1562563}]}
+{"name": "糖蛋白", "id": 640563, "predecessors": [{"name": "蛋白质", "id": 43818}, {"name": "生物化学", "id": 43811}], "successors": [{"name": "单克隆抗体类", "id": 1562563}]}

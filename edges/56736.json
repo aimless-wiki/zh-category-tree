@@ -1,1 +1,1 @@
-{"name": "英國教育", "id": 56736, "predecessors": [{"name": "英國文化", "id": 56575}, {"name": "虛構", "id": 69954}], "successors": [{"name": "英国教育家", "id": 90114}]}
+{"name": "英國教育", "id": 56736, "predecessors": [{"name": "英國文化", "id": 56575}, {"name": "教育", "id": 51575}], "successors": [{"name": "英国教育家", "id": 90114}]}

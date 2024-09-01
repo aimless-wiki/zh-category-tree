@@ -1,1 +1,1 @@
-{"name": "柴油发动机制造商", "id": 8729973, "predecessors": [{"name": "製造業", "id": 1159067}, {"name": "石油产品", "id": 926896}], "successors": []}
+{"name": "柴油发动机制造商", "id": 8729973, "predecessors": [{"name": "产业", "id": 58086}, {"name": "製造業", "id": 1159067}, {"name": "石油产品", "id": 926896}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "新兴技术", "id": 1097309, "predecessors": [{"name": "虛構", "id": 69954}], "successors": []}
+{"name": "新兴技术", "id": 1097309, "predecessors": [{"name": "工業設計", "id": 58362}, {"name": "虛構", "id": 69954}], "successors": [{"name": "人工智能", "id": 43170}]}

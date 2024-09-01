@@ -1,1 +1,1 @@
-{"name": "晶體", "id": 554816, "predecessors": [{"name": "晶体学", "id": 572945}, {"name": "物质状态", "id": 1552790}], "successors": []}
+{"name": "晶體", "id": 554816, "predecessors": [{"name": "固体物理学", "id": 121642}, {"name": "晶体学", "id": 572945}, {"name": "凝聚体物理学", "id": 94447}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "天文学书籍", "id": 1573245, "predecessors": [{"name": "書籍類型", "id": 650232}], "successors": [{"name": "星表", "id": 550790}]}
+{"name": "天文学书籍", "id": 1573245, "predecessors": [{"name": "天文題材作品", "id": 1695693}, {"name": "虛構", "id": 69954}], "successors": [{"name": "星表", "id": 550790}]}

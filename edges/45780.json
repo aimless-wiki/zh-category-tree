@@ -1,1 +1,1 @@
-{"name": "概率论", "id": 45780, "predecessors": [{"name": "虛構", "id": 69954}], "successors": []}
+{"name": "概率论", "id": 45780, "predecessors": [{"name": "虛構", "id": 69954}], "successors": [{"name": "随机过程", "id": 45779}]}

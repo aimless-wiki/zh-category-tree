@@ -1,1 +1,1 @@
-{"name": "氢", "id": 714036, "predecessors": [{"name": "化学元素", "id": 320992}, {"name": "材料", "id": 58876}], "successors": [{"name": "氢化合物", "id": 697158}]}
+{"name": "氢", "id": 714036, "predecessors": [{"name": "材料", "id": 58876}, {"name": "工业气体", "id": 1659856}], "successors": [{"name": "氢化合物", "id": 697158}]}

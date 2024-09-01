@@ -1,1 +1,1 @@
-{"name": "抗生素", "id": 83718, "predecessors": [{"name": "卫生", "id": 42369}, {"name": "供應鏈管理", "id": 469766}], "successors": []}
+{"name": "抗生素", "id": 83718, "predecessors": [{"name": "卫生", "id": 42369}, {"name": "传染病", "id": 44408}, {"name": "供應鏈管理", "id": 469766}], "successors": []}

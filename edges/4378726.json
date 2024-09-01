@@ -1,1 +1,1 @@
-{"name": "死于糖尿病的人", "id": 4378726, "predecessors": [{"name": "自體免疫性疾病", "id": 1069305}], "successors": []}
+{"name": "死于糖尿病的人", "id": 4378726, "predecessors": [{"name": "消化系統疾病", "id": 317170}, {"name": "自體免疫性疾病", "id": 1069305}], "successors": []}

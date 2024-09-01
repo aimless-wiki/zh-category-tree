@@ -1,1 +1,1 @@
-{"name": "简易爆炸装置爆炸事件", "id": 5081101, "predecessors": [{"name": "应急管理", "id": 543967}], "successors": []}
+{"name": "简易爆炸装置爆炸事件", "id": 5081101, "predecessors": [{"name": "应急管理", "id": 543967}, {"name": "人類行為", "id": 665955}], "successors": []}

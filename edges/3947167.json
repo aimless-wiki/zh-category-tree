@@ -1,1 +1,1 @@
-{"name": "各語言音系", "id": 3947167, "predecessors": [{"name": "文化", "id": 42322}], "successors": []}
+{"name": "各語言音系", "id": 3947167, "predecessors": [{"name": "音韻學", "id": 73108}, {"name": "虛構", "id": 69954}], "successors": [{"name": "漢語音韻學", "id": 74009}]}

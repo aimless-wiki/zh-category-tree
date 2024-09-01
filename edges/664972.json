@@ -1,1 +1,1 @@
-{"name": "植物解剖學", "id": 664972, "predecessors": [{"name": "文化", "id": 42322}], "successors": [{"name": "花", "id": 73121}, {"name": "果实", "id": 187274}, {"name": "木材", "id": 286360}]}
+{"name": "植物解剖學", "id": 664972, "predecessors": [{"name": "植物", "id": 32858}, {"name": "虛構", "id": 69954}], "successors": [{"name": "花", "id": 73121}, {"name": "果实", "id": 187274}, {"name": "木材", "id": 286360}]}

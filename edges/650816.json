@@ -1,1 +1,1 @@
-{"name": "阻斷服務攻擊", "id": 650816, "predecessors": [{"name": "互联网安全", "id": 5581214}], "successors": []}
+{"name": "阻斷服務攻擊", "id": 650816, "predecessors": [{"name": "保全漏洞", "id": 896569}, {"name": "互联网安全", "id": 5581214}], "successors": []}

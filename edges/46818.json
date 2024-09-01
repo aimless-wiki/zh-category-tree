@@ -1,1 +1,1 @@
-{"name": "鸡尾酒", "id": 46818, "predecessors": [{"name": "健康", "id": 42371}, {"name": "精神药物", "id": 3885321}], "successors": []}
+{"name": "鸡尾酒", "id": 46818, "predecessors": [{"name": "药物", "id": 50014}, {"name": "健康", "id": 42371}, {"name": "饮料", "id": 40831}], "successors": []}

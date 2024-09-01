@@ -1,1 +1,1 @@
-{"name": "GNU计划软件", "id": 540844, "predecessors": [{"name": "自由軟體組織", "id": 369515}], "successors": [{"name": "GNOME", "id": 112834}]}
+{"name": "GNU计划软件", "id": 540844, "predecessors": [{"name": "Unix软件", "id": 451600}, {"name": "自由軟體組織", "id": 369515}], "successors": [{"name": "GNOME", "id": 112834}]}

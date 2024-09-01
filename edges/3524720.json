@@ -1,1 +1,1 @@
-{"name": "RNA", "id": 3524720, "predecessors": [{"name": "核酸", "id": 80601}], "successors": [{"name": "RNA病毒", "id": 218135}, {"name": "非編碼RNA", "id": 588472}]}
+{"name": "RNA", "id": 3524720, "predecessors": [{"name": "核酸", "id": 80601}, {"name": "遗传学", "id": 43810}], "successors": [{"name": "RNA病毒", "id": 218135}, {"name": "非編碼RNA", "id": 588472}]}

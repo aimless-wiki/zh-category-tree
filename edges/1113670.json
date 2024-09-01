@@ -1,1 +1,1 @@
-{"name": "滑翔机", "id": 1113670, "predecessors": [{"name": "航空器类型", "id": 5494237}, {"name": "总览", "id": 6349075}, {"name": "文化", "id": 42322}], "successors": []}
+{"name": "滑翔机", "id": 1113670, "predecessors": [{"name": "航空器类型", "id": 5494237}, {"name": "人類行為", "id": 665955}], "successors": []}

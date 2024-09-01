@@ -1,1 +1,1 @@
-{"name": "宣傳技巧", "id": 1244729, "predecessors": [{"name": "宣傳", "id": 71533}, {"name": "社会学", "id": 58241}], "successors": [{"name": "審查制度", "id": 1244725}, {"name": "陰謀論", "id": 665460}]}
+{"name": "宣傳技巧", "id": 1244729, "predecessors": [{"name": "宣傳", "id": 71533}, {"name": "社会学", "id": 58241}, {"name": "學習", "id": 58085}], "successors": [{"name": "陰謀論", "id": 665460}]}

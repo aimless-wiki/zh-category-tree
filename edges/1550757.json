@@ -1,1 +1,1 @@
-{"name": "密码分析", "id": 1550757, "predecessors": [{"name": "密码学", "id": 52422}, {"name": "国家安全", "id": 674440}], "successors": []}
+{"name": "密码分析", "id": 1550757, "predecessors": [{"name": "保全漏洞", "id": 896569}, {"name": "密码学", "id": 52422}, {"name": "學習", "id": 58085}], "successors": []}

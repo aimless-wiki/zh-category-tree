@@ -1,1 +1,1 @@
-{"name": "生物化学方法", "id": 1538901, "predecessors": [{"name": "實驗室技術", "id": 69892}], "successors": []}
+{"name": "生物化学方法", "id": 1538901, "predecessors": [{"name": "實驗室技術", "id": 69892}, {"name": "生物化学", "id": 43811}, {"name": "生物学", "id": 35877}], "successors": []}

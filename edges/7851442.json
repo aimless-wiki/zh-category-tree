@@ -1,1 +1,1 @@
-{"name": "虚构假体", "id": 7851442, "predecessors": [{"name": "健康", "id": 42371}, {"name": "生物技術", "id": 512665}], "successors": []}
+{"name": "虚构假体", "id": 7851442, "predecessors": [{"name": "健康", "id": 42371}, {"name": "医学", "id": 42370}], "successors": []}

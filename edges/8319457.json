@@ -1,1 +1,1 @@
-{"name": "西式糕點", "id": 8319457, "predecessors": [{"name": "廣式點心", "id": 270129}], "successors": []}
+{"name": "西式糕點", "id": 8319457, "predecessors": [{"name": "西方甜食", "id": 72936}, {"name": "甜食", "id": 72860}, {"name": "廣式點心", "id": 270129}], "successors": []}

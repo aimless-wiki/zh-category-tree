@@ -1,1 +1,1 @@
-{"name": "流体动力学", "id": 743163, "predecessors": [{"name": "流体力学", "id": 120447}], "successors": [{"name": "大氣動力學", "id": 7813900}, {"name": "辐射", "id": 2850022}]}
+{"name": "流体动力学", "id": 743163, "predecessors": [{"name": "流体力学", "id": 120447}], "successors": []}

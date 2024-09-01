@@ -1,1 +1,1 @@
-{"name": "病理学", "id": 284321, "predecessors": [{"name": "医学专科", "id": 1645188}], "successors": [{"name": "微生物学", "id": 44407}]}
+{"name": "病理学", "id": 284321, "predecessors": [{"name": "医学专科", "id": 1645188}, {"name": "教育", "id": 51575}], "successors": [{"name": "微生物学", "id": 44407}]}

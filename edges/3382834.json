@@ -1,1 +1,1 @@
-{"name": "补给舰", "id": 3382834, "predecessors": [{"name": "军舰", "id": 35535}], "successors": []}
+{"name": "补给舰", "id": 3382834, "predecessors": [{"name": "供應鏈管理", "id": 469766}], "successors": []}

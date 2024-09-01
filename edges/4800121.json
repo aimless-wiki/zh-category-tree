@@ -1,1 +1,1 @@
-{"name": "鼻音", "id": 4800121, "predecessors": [{"name": "歷史語言學", "id": 464575}], "successors": []}
+{"name": "鼻音", "id": 4800121, "predecessors": [{"name": "輔音", "id": 97691}, {"name": "歷史語言學", "id": 464575}, {"name": "語音學", "id": 321751}], "successors": []}

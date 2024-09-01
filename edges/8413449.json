@@ -1,1 +1,1 @@
-{"name": "双人乐团", "id": 8413449, "predecessors": [{"name": "二人组", "id": 1596464}, {"name": "表演藝術", "id": 58285}], "successors": [{"name": "二人组", "id": 1596464}]}
+{"name": "双人乐团", "id": 8413449, "predecessors": [{"name": "二人组", "id": 1596464}, {"name": "组织", "id": 42377}], "successors": [{"name": "二人组", "id": 1596464}]}

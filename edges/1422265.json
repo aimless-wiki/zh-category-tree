@@ -1,1 +1,1 @@
-{"name": "小行星探測器", "id": 1422265, "predecessors": [{"name": "文化", "id": 42322}, {"name": "太阳系", "id": 33060}, {"name": "度量", "id": 415858}], "successors": []}
+{"name": "小行星探測器", "id": 1422265, "predecessors": [{"name": "人類行為", "id": 665955}, {"name": "行星科学", "id": 555185}, {"name": "天文学史", "id": 76450}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "模式生物", "id": 460284, "predecessors": [{"name": "發育生物學", "id": 508410}, {"name": "科学建模", "id": 770208}], "successors": []}
+{"name": "模式生物", "id": 460284, "predecessors": [{"name": "發育生物學", "id": 508410}, {"name": "军事", "id": 450358}, {"name": "虛構", "id": 69954}], "successors": [{"name": "細胞系", "id": 6039427}]}

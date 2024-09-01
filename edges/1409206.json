@@ -1,1 +1,1 @@
-{"name": "病毒性疾病", "id": 1409206, "predecessors": [{"name": "传染病", "id": 44408}], "successors": [{"name": "肝炎", "id": 574751}]}
+{"name": "病毒性疾病", "id": 1409206, "predecessors": [{"name": "传染病", "id": 44408}, {"name": "病毒学", "id": 44406}], "successors": [{"name": "HIV/AIDS", "id": 66085}, {"name": "肝炎", "id": 574751}, {"name": "抗病毒药物", "id": 916979}, {"name": "流行性感冒", "id": 966784}]}

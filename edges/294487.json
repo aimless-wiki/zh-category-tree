@@ -1,1 +1,1 @@
-{"name": "空氣污染", "id": 294487, "predecessors": [{"name": "气象学", "id": 65213}, {"name": "污染", "id": 65705}], "successors": [{"name": "温室气体", "id": 43572}, {"name": "空气污染物", "id": 1077752}]}
+{"name": "空氣污染", "id": 294487, "predecessors": [{"name": "污染", "id": 65705}], "successors": [{"name": "温室气体", "id": 43572}, {"name": "空气污染物", "id": 1077752}]}

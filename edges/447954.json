@@ -1,1 +1,1 @@
-{"name": "性偏离", "id": 447954, "predecessors": [{"name": "性學", "id": 119565}, {"name": "性文化", "id": 80393}, {"name": "人類行為", "id": 665955}, {"name": "兽医学", "id": 361291}], "successors": [{"name": "BDSM", "id": 53226}, {"name": "恋物", "id": 446150}]}
+{"name": "性偏离", "id": 447954, "predecessors": [{"name": "性文化", "id": 80393}, {"name": "人類行為", "id": 665955}, {"name": "兽医学", "id": 361291}, {"name": "社會語言學", "id": 65993}], "successors": [{"name": "BDSM", "id": 53226}, {"name": "恋物", "id": 446150}]}

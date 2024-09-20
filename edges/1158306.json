@@ -1,1 +1,1 @@
-{"name": "安全設備", "id": 1158306, "predecessors": [{"name": "安全", "id": 256369}, {"name": "供應鏈管理", "id": 469766}], "successors": [{"name": "帽子", "id": 243345}, {"name": "盔甲", "id": 612549}]}
+{"name": "安全設備", "id": 1158306, "predecessors": [{"name": "安全", "id": 256369}, {"name": "供應鏈管理", "id": 469766}], "successors": []}

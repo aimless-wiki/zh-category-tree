@@ -1,1 +1,1 @@
-{"name": "罹患骨癌逝世者", "id": 1702992, "predecessors": [{"name": "罹患癌症逝世者", "id": 1702212}], "successors": []}
+{"name": "罹患骨癌逝世者", "id": 1702992, "predecessors": [{"name": "肌骨疾病", "id": 1779871}, {"name": "罹患癌症逝世者", "id": 1702212}], "successors": []}

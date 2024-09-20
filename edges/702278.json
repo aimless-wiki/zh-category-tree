@@ -1,1 +1,1 @@
-{"name": "亚砜", "id": 702278, "predecessors": [{"name": "有机硫化合物", "id": 698090}, {"name": "工业气体", "id": 1659856}, {"name": "矿物", "id": 58939}], "successors": []}
+{"name": "亚砜", "id": 702278, "predecessors": [{"name": "有机硫化合物", "id": 698090}, {"name": "氧", "id": 598171}, {"name": "化学元素", "id": 320992}], "successors": []}

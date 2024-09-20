@@ -1,1 +1,1 @@
-{"name": "電波塔", "id": 5260708, "predecessors": [{"name": "电信", "id": 214517}, {"name": "通信", "id": 467595}, {"name": "建築物", "id": 3231846}], "successors": []}
+{"name": "電波塔", "id": 5260708, "predecessors": [{"name": "电信", "id": 214517}, {"name": "通信", "id": 467595}, {"name": "几何形状", "id": 705292}], "successors": []}

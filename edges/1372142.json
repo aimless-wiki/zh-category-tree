@@ -1,1 +1,1 @@
-{"name": "法國劇情片", "id": 1372142, "predecessors": [{"name": "文化", "id": 42322}, {"name": "社会科学", "id": 41504}], "successors": [{"name": "法國浪漫劇情片", "id": 1372196}]}
+{"name": "法國劇情片", "id": 1372142, "predecessors": [{"name": "社会科学", "id": 41504}, {"name": "文化", "id": 42322}], "successors": [{"name": "法國浪漫劇情片", "id": 1372196}]}

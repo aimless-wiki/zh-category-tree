@@ -1,1 +1,1 @@
-{"name": "智力游戏", "id": 85009, "predecessors": [{"name": "游戏", "id": 40007}], "successors": [{"name": "魔術方塊", "id": 801599}, {"name": "益智游戏", "id": 2816745}]}
+{"name": "智力游戏", "id": 85009, "predecessors": [{"name": "认知", "id": 455417}, {"name": "游戏", "id": 40007}], "successors": [{"name": "魔術方塊", "id": 801599}, {"name": "益智游戏", "id": 2816745}]}

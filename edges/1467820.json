@@ -1,1 +1,1 @@
-{"name": "国家通讯社", "id": 1467820, "predecessors": [{"name": "通訊社", "id": 89015}, {"name": "国家", "id": 33603}, {"name": "总览", "id": 6349075}, {"name": "虛構", "id": 69954}], "successors": []}
+{"name": "国家通讯社", "id": 1467820, "predecessors": [{"name": "通訊社", "id": 89015}, {"name": "国家", "id": 33603}, {"name": "政府", "id": 44305}, {"name": "总览", "id": 6349075}], "successors": []}

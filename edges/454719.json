@@ -1,1 +1,1 @@
-{"name": "糖尿病", "id": 454719, "predecessors": [{"name": "慢性病", "id": 5387077}, {"name": "代谢", "id": 789119}], "successors": [{"name": "糖尿病药物", "id": 709560}]}
+{"name": "糖尿病", "id": 454719, "predecessors": [{"name": "代谢", "id": 789119}], "successors": [{"name": "糖尿病药物", "id": 709560}, {"name": "死于糖尿病的人", "id": 4378726}]}

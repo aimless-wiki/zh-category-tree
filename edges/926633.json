@@ -1,1 +1,1 @@
-{"name": "磷酸酯", "id": 926633, "predecessors": [{"name": "工业气体", "id": 1659856}], "successors": [{"name": "核苷酸", "id": 583895}]}
+{"name": "磷酸酯", "id": 926633, "predecessors": [{"name": "氧", "id": 598171}], "successors": [{"name": "核苷酸", "id": 583895}]}

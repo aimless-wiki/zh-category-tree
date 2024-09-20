@@ -1,1 +1,1 @@
-{"name": "哈尔滨公交", "id": 3929363, "predecessors": [{"name": "经济", "id": 42373}, {"name": "产业", "id": 58086}], "successors": []}
+{"name": "哈尔滨公交", "id": 3929363, "predecessors": [{"name": "产业", "id": 58086}, {"name": "总览", "id": 6349075}], "successors": []}

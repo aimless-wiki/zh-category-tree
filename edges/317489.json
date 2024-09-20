@@ -1,1 +1,1 @@
-{"name": "外伤", "id": 317489, "predecessors": [{"name": "疾病", "id": 52452}, {"name": "急診醫學", "id": 411003}, {"name": "虛構", "id": 69954}], "successors": []}
+{"name": "外伤", "id": 317489, "predecessors": [{"name": "疾病", "id": 52452}, {"name": "虛構", "id": 69954}], "successors": []}

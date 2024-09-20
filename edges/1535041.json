@@ -1,1 +1,1 @@
-{"name": "乙酰胺", "id": 1535041, "predecessors": [{"name": "羧酰胺", "id": 1687629}, {"name": "工业气体", "id": 1659856}], "successors": []}
+{"name": "乙酰胺", "id": 1535041, "predecessors": [{"name": "羧酰胺", "id": 1687629}, {"name": "氧", "id": 598171}], "successors": []}

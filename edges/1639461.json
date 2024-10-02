@@ -1,1 +1,1 @@
-{"name": "韓國綜藝節目", "id": 1639461, "predecessors": [{"name": "娱乐", "id": 42321}, {"name": "文化", "id": 42322}], "successors": [{"name": "PRODUCE_101", "id": 6278387}, {"name": "韓國約會與戀情真人實境電視節目", "id": 7789214}, {"name": "PEAK_TIME", "id": 8320359}]}
+{"name": "韓國綜藝節目", "id": 1639461, "predecessors": [{"name": "綜藝節目", "id": 617411}, {"name": "文化", "id": 42322}], "successors": [{"name": "PRODUCE_101", "id": 6278387}, {"name": "韓國約會與戀情真人實境電視節目", "id": 7789214}, {"name": "PEAK_TIME", "id": 8320359}]}

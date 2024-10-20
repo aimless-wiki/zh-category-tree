@@ -1,1 +1,1 @@
-{"name": "兽药", "id": 1652535, "predecessors": [{"name": "兽医学", "id": 361291}, {"name": "药物", "id": 50014}, {"name": "健康照護", "id": 358696}], "successors": []}
+{"name": "兽药", "id": 1652535, "predecessors": [{"name": "兽医学", "id": 361291}, {"name": "药物", "id": 50014}, {"name": "藥理學", "id": 58261}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "罕用药", "id": 2773446, "predecessors": [{"name": "药物", "id": 50014}, {"name": "藥學", "id": 58263}, {"name": "健康照護", "id": 358696}], "successors": []}
+{"name": "罕用药", "id": 2773446, "predecessors": [{"name": "药物", "id": 50014}, {"name": "藥學", "id": 58263}, {"name": "藥理學", "id": 58261}], "successors": []}

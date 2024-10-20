@@ -1,1 +1,1 @@
-{"name": "速食", "id": 72684, "predecessors": [{"name": "健康", "id": 42371}], "successors": [{"name": "速食餐廳", "id": 74389}, {"name": "拉麵", "id": 4123400}]}
+{"name": "速食", "id": 72684, "predecessors": [{"name": "虛構", "id": 69954}], "successors": [{"name": "速食餐廳", "id": 74389}]}

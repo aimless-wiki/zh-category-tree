@@ -1,1 +1,1 @@
-{"name": "詔令文書", "id": 592093, "predecessors": [{"name": "司法", "id": 545519}, {"name": "政府", "id": 44305}, {"name": "法律文書", "id": 1898737}], "successors": []}
+{"name": "詔令文書", "id": 592093, "predecessors": [{"name": "司法", "id": 545519}, {"name": "法律", "id": 52341}, {"name": "政府", "id": 44305}, {"name": "法律文書", "id": 1898737}], "successors": []}

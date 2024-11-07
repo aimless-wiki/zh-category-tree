@@ -1,1 +1,1 @@
-{"name": "急診醫學", "id": 411003, "predecessors": [{"name": "医学", "id": 42370}], "successors": []}
+{"name": "急診醫學", "id": 411003, "predecessors": [{"name": "医学", "id": 42370}], "successors": [{"name": "醫療急症", "id": 1752960}, {"name": "应急医学用化学物质", "id": 8236803}, {"name": "外伤", "id": 317489}]}

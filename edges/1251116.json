@@ -1,1 +1,1 @@
-{"name": "虛構鳥類", "id": 1251116, "predecessors": [{"name": "鸟类", "id": 41477}, {"name": "學習", "id": 58085}, {"name": "文化", "id": 42322}], "successors": []}
+{"name": "虛構鳥類", "id": 1251116, "predecessors": [{"name": "鸟类", "id": 41477}, {"name": "虛構", "id": 69954}, {"name": "文化", "id": 42322}], "successors": []}

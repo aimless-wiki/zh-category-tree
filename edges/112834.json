@@ -1,1 +1,1 @@
-{"name": "GNOME", "id": 112834, "predecessors": [{"name": "GNU计划软件", "id": 540844}, {"name": "C函式庫", "id": 563016}, {"name": "Unix软件", "id": 451600}, {"name": "系统软件", "id": 43177}], "successors": []}
+{"name": "GNOME", "id": 112834, "predecessors": [{"name": "GNU计划软件", "id": 540844}, {"name": "C函式庫", "id": 563016}, {"name": "自由系統軟體", "id": 1187918}], "successors": []}

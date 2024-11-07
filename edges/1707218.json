@@ -1,1 +1,1 @@
-{"name": "人畜共患病", "id": 1707218, "predecessors": [{"name": "传染病", "id": 44408}, {"name": "兽医学", "id": 361291}, {"name": "人类学", "id": 36195}], "successors": []}
+{"name": "人畜共患病", "id": 1707218, "predecessors": [{"name": "兽医学", "id": 361291}, {"name": "人类学", "id": 36195}], "successors": []}

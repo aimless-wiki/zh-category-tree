@@ -1,1 +1,1 @@
-{"name": "Xbox遊戲", "id": 193786, "predecessors": [{"name": "操作系统", "id": 33605}, {"name": "微軟", "id": 83434}, {"name": "家用游戏机", "id": 70166}], "successors": [{"name": "Xbox游戏封面", "id": 5574975}]}
+{"name": "Xbox遊戲", "id": 193786, "predecessors": [{"name": "微軟", "id": 83434}, {"name": "家用游戏机", "id": 70166}, {"name": "人機互動", "id": 632385}], "successors": [{"name": "Xbox游戏封面", "id": 5574975}]}

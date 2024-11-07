@@ -1,1 +1,1 @@
-{"name": "Android软件", "id": 1350082, "predecessors": [{"name": "Android", "id": 1280526}, {"name": "Linux軟件", "id": 766194}, {"name": "操作系统", "id": 33605}], "successors": [{"name": "Android遊戲", "id": 1771515}, {"name": "定制Android固件", "id": 5564841}]}
+{"name": "Android软件", "id": 1350082, "predecessors": [{"name": "Android", "id": 1280526}, {"name": "Linux軟件", "id": 766194}], "successors": [{"name": "Android遊戲", "id": 1771515}, {"name": "定制Android固件", "id": 5564841}]}

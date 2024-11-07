@@ -1,1 +1,1 @@
-{"name": "樂曲形式", "id": 403527, "predecessors": [{"name": "音樂理論", "id": 76387}, {"name": "声音", "id": 58289}], "successors": [{"name": "歌曲形式", "id": 3891536}]}
+{"name": "樂曲形式", "id": 403527, "predecessors": [{"name": "声音", "id": 58289}], "successors": [{"name": "歌曲形式", "id": 3891536}]}

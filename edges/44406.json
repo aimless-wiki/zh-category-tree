@@ -1,1 +1,1 @@
-{"name": "病毒学", "id": 44406, "predecessors": [{"name": "病毒", "id": 81214}, {"name": "微生物学", "id": 44407}], "successors": [{"name": "病毒", "id": 81214}]}
+{"name": "病毒学", "id": 44406, "predecessors": [{"name": "病毒", "id": 81214}, {"name": "微生物学", "id": 44407}], "successors": [{"name": "病毒", "id": 81214}, {"name": "病毒性疾病", "id": 1409206}]}

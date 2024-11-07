@@ -1,1 +1,1 @@
-{"name": "RNA病毒", "id": 218135, "predecessors": [{"name": "RNA", "id": 3524720}], "successors": [{"name": "乙型冠状病毒属", "id": 6908541}, {"name": "甲型冠狀病毒屬", "id": 6913579}]}
+{"name": "RNA病毒", "id": 218135, "predecessors": [{"name": "RNA", "id": 3524720}, {"name": "病毒", "id": 81214}], "successors": []}

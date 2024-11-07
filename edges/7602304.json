@@ -1,1 +1,1 @@
-{"name": "黄岛区地铁车站", "id": 7602304, "predecessors": [{"name": "黄岛区", "id": 1462785}, {"name": "中國鐵路隧道", "id": 773920}], "successors": []}
+{"name": "黄岛区地铁车站", "id": 7602304, "predecessors": [{"name": "中国地下铁路车站", "id": 8740436}, {"name": "黄岛区", "id": 1462785}], "successors": []}

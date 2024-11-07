@@ -1,1 +1,1 @@
-{"name": "Game_Gear游戏", "id": 4515704, "predecessors": [{"name": "操作系统", "id": 33605}, {"name": "掌上遊戲機", "id": 796781}, {"name": "日本企業集團", "id": 489840}], "successors": []}
+{"name": "Game_Gear游戏", "id": 4515704, "predecessors": [{"name": "掌上遊戲機", "id": 796781}, {"name": "日本企業集團", "id": 489840}, {"name": "人機互動", "id": 632385}], "successors": []}

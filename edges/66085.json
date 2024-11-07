@@ -1,1 +1,1 @@
-{"name": "HIV/AIDS", "id": 66085, "predecessors": [{"name": "传染病", "id": 44408}], "successors": [{"name": "HIV/AIDS帶原者", "id": 4096985}, {"name": "艾滋病研究者", "id": 7243952}]}
+{"name": "HIV/AIDS", "id": 66085, "predecessors": [{"name": "病毒性疾病", "id": 1409206}], "successors": [{"name": "HIV/AIDS帶原者", "id": 4096985}, {"name": "艾滋病研究者", "id": 7243952}]}

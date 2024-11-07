@@ -1,1 +1,1 @@
-{"name": "蒸食", "id": 1216356, "predecessors": [{"name": "能源转换", "id": 1601165}, {"name": "烹调方法", "id": 72465}], "successors": []}
+{"name": "蒸食", "id": 1216356, "predecessors": [{"name": "能源转换", "id": 1601165}], "successors": []}

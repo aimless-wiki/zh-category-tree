@@ -1,1 +1,1 @@
-{"name": "顯示卡", "id": 202789, "predecessors": [{"name": "電腦硬體", "id": 460677}, {"name": "IBM", "id": 344517}, {"name": "计算机总线", "id": 190899}], "successors": [{"name": "顯示設備硬件公司", "id": 715505}, {"name": "GeForce系列", "id": 6788648}]}
+{"name": "顯示卡", "id": 202789, "predecessors": [{"name": "電腦硬體", "id": 460677}, {"name": "IBM", "id": 344517}, {"name": "计算机总线", "id": 190899}], "successors": [{"name": "GeForce系列", "id": 6788648}]}

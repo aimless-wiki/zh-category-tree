@@ -1,1 +1,1 @@
-{"name": "硝酸盐", "id": 339725, "predecessors": [{"name": "氧化剂", "id": 205412}, {"name": "按阴离子分类的化合物", "id": 775150}, {"name": "氧", "id": 598171}, {"name": "化合物", "id": 41507}], "successors": []}
+{"name": "硝酸盐", "id": 339725, "predecessors": [{"name": "氧化剂", "id": 205412}, {"name": "化学元素", "id": 320992}], "successors": []}

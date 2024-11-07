@@ -1,1 +1,1 @@
-{"name": "炎症", "id": 635590, "predecessors": [{"name": "免疫系統", "id": 211831}], "successors": [{"name": "肝炎", "id": 574751}, {"name": "罹患肺炎逝世者", "id": 2874671}]}
+{"name": "炎症", "id": 635590, "predecessors": [{"name": "免疫系統", "id": 211831}, {"name": "症狀", "id": 78887}], "successors": [{"name": "肝炎", "id": 574751}, {"name": "罹患肺炎逝世者", "id": 2874671}]}

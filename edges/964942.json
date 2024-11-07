@@ -1,1 +1,1 @@
-{"name": "止痛药", "id": 964942, "predecessors": [{"name": "药物", "id": 50014}, {"name": "心理学术语", "id": 1269159}, {"name": "藥理學", "id": 58261}], "successors": []}
+{"name": "止痛药", "id": 964942, "predecessors": [{"name": "痛覺", "id": 660115}, {"name": "药物", "id": 50014}, {"name": "藥理學", "id": 58261}], "successors": []}

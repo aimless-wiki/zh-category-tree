@@ -1,1 +1,1 @@
-{"name": "神舟计划航天员", "id": 8548888, "predecessors": [{"name": "载人航天", "id": 363420}, {"name": "称谓", "id": 78052}], "successors": []}
+{"name": "神舟计划航天员", "id": 8548888, "predecessors": [{"name": "航天", "id": 81152}, {"name": "载人航天", "id": 363420}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "時區", "id": 223255, "predecessors": [{"name": "天球坐标系统", "id": 65491}, {"name": "总览", "id": 6349075}], "successors": [{"name": "UTC偏移量", "id": 7829455}]}
+{"name": "時區", "id": 223255, "predecessors": [{"name": "度量", "id": 415858}, {"name": "总览", "id": 6349075}], "successors": []}

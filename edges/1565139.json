@@ -1,1 +1,1 @@
-{"name": "NHK電視劇", "id": 1565139, "predecessors": [{"name": "NHK電視節目", "id": 2734309}, {"name": "电视", "id": 47053}], "successors": [{"name": "NHK大河劇", "id": 153684}, {"name": "連續電視小說", "id": 3767015}]}
+{"name": "NHK電視劇", "id": 1565139, "predecessors": [{"name": "NHK電視節目", "id": 2734309}, {"name": "文化", "id": 42322}], "successors": [{"name": "NHK大河劇", "id": 153684}, {"name": "連續電視小說", "id": 3767015}]}

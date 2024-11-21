@@ -1,1 +1,1 @@
-{"name": "天文觀測", "id": 464574, "predecessors": [{"name": "光学仪器", "id": 906946}, {"name": "总览", "id": 6349075}], "successors": [{"name": "天文现象", "id": 33883}, {"name": "巡天项目", "id": 593139}]}
+{"name": "天文觀測", "id": 464574, "predecessors": [{"name": "光学仪器", "id": 906946}], "successors": [{"name": "天文现象", "id": 33883}, {"name": "巡天项目", "id": 593139}]}

@@ -1,1 +1,1 @@
-{"name": "DNA", "id": 3513588, "predecessors": [{"name": "核酸", "id": 80601}, {"name": "遗传学", "id": 43810}, {"name": "分子物理学", "id": 148761}], "successors": [{"name": "遗传病", "id": 115888}]}
+{"name": "DNA", "id": 3513588, "predecessors": [{"name": "核酸", "id": 80601}, {"name": "分子物理学", "id": 148761}], "successors": [{"name": "遗传病", "id": 115888}]}

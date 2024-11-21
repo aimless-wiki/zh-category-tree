@@ -1,1 +1,1 @@
-{"name": "大江戶線車站", "id": 5632410, "predecessors": [{"name": "東京都鐵路", "id": 6086552}, {"name": "人類行為", "id": 665955}], "successors": []}
+{"name": "大江戶線車站", "id": 5632410, "predecessors": [{"name": "東京都鐵路", "id": 6086552}, {"name": "公共交通", "id": 80881}], "successors": []}

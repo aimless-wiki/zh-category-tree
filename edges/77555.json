@@ -1,1 +1,1 @@
-{"name": "计算机语言", "id": 77555, "predecessors": [{"name": "办公设备", "id": 58299}], "successors": [{"name": "程序设计语言", "id": 44415}, {"name": "标记语言", "id": 1594798}]}
+{"name": "计算机语言", "id": 77555, "predecessors": [{"name": "工业", "id": 78034}], "successors": [{"name": "程序设计语言", "id": 44415}, {"name": "标记语言", "id": 1594798}]}

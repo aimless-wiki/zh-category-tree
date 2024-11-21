@@ -1,1 +1,1 @@
-{"name": "鐵路訊號系統", "id": 599526, "predecessors": [{"name": "人類行為", "id": 665955}], "successors": []}
+{"name": "鐵路訊號系統", "id": 599526, "predecessors": [{"name": "安全", "id": 256369}], "successors": [{"name": "韩国铁路号志站", "id": 1797021}, {"name": "北海道旅客鐵道號誌站", "id": 2958739}]}

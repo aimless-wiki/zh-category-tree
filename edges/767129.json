@@ -1,1 +1,1 @@
-{"name": "心理治療", "id": 767129, "predecessors": [{"name": "治療", "id": 69110}, {"name": "健康照護職業", "id": 269634}], "successors": []}
+{"name": "心理治療", "id": 767129, "predecessors": [{"name": "心理學分支", "id": 493773}, {"name": "健康照護職業", "id": 269634}, {"name": "兽医学", "id": 361291}], "successors": []}

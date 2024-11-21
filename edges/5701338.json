@@ -1,1 +1,1 @@
-{"name": "伊勢崎線車站", "id": 5701338, "predecessors": [{"name": "日本鐵路公司", "id": 489668}, {"name": "人類行為", "id": 665955}], "successors": []}
+{"name": "伊勢崎線車站", "id": 5701338, "predecessors": [{"name": "日本鐵路公司", "id": 489668}, {"name": "公共交通", "id": 80881}], "successors": []}

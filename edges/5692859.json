@@ -1,1 +1,1 @@
-{"name": "京王線車站", "id": 5692859, "predecessors": [{"name": "日本鐵路公司", "id": 489668}, {"name": "人類行為", "id": 665955}], "successors": []}
+{"name": "京王線車站", "id": 5692859, "predecessors": [{"name": "日本鐵路公司", "id": 489668}, {"name": "公共交通", "id": 80881}], "successors": []}

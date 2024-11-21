@@ -1,1 +1,1 @@
-{"name": "电动力学", "id": 98260, "predecessors": [{"name": "動力學", "id": 566060}, {"name": "电磁学", "id": 35879}], "successors": [{"name": "電磁輻射", "id": 776892}]}
+{"name": "电动力学", "id": 98260, "predecessors": [{"name": "動力學", "id": 566060}], "successors": [{"name": "電磁輻射", "id": 776892}]}

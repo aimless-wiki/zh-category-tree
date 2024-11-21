@@ -1,1 +1,1 @@
-{"name": "長尾線車站", "id": 6440144, "predecessors": [{"name": "日本鐵路公司", "id": 489668}, {"name": "人類行為", "id": 665955}], "successors": []}
+{"name": "長尾線車站", "id": 6440144, "predecessors": [{"name": "日本鐵路公司", "id": 489668}, {"name": "公共交通", "id": 80881}], "successors": []}

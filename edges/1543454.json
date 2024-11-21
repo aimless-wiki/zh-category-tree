@@ -1,1 +1,1 @@
-{"name": "冰", "id": 1543454, "predecessors": [{"name": "水", "id": 80602}, {"name": "凝聚体物理学", "id": 94447}], "successors": [{"name": "冰品", "id": 569563}]}
+{"name": "冰", "id": 1543454, "predecessors": [{"name": "水", "id": 80602}, {"name": "物质状态", "id": 1552790}], "successors": [{"name": "冰品", "id": 569563}, {"name": "虛構冰能力者", "id": 1702274}]}

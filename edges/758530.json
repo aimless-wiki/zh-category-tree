@@ -1,1 +1,1 @@
-{"name": "火山湖", "id": 758530, "predecessors": [{"name": "火山", "id": 80982}], "successors": []}
+{"name": "火山湖", "id": 758530, "predecessors": [{"name": "火山", "id": 80982}, {"name": "水體", "id": 77215}], "successors": []}

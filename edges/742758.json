@@ -1,1 +1,1 @@
-{"name": "草酸盐", "id": 742758, "predecessors": [{"name": "有机化合物", "id": 43569}], "successors": []}
+{"name": "草酸盐", "id": 742758, "predecessors": [{"name": "有机化合物", "id": 43569}, {"name": "氧", "id": 598171}], "successors": []}

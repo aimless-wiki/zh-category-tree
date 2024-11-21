@@ -1,1 +1,1 @@
-{"name": "降水", "id": 508102, "predecessors": [{"name": "天氣", "id": 77212}, {"name": "水", "id": 80602}, {"name": "总览", "id": 6349075}], "successors": [{"name": "南極洲雪原", "id": 6851780}]}
+{"name": "降水", "id": 508102, "predecessors": [{"name": "天氣", "id": 77212}, {"name": "水", "id": 80602}, {"name": "气象现象", "id": 8230660}], "successors": [{"name": "南極洲雪原", "id": 6851780}]}

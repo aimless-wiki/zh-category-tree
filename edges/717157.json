@@ -1,1 +1,1 @@
-{"name": "寵物龜", "id": 717157, "predecessors": [{"name": "龟鳖目", "id": 75830}], "successors": []}
+{"name": "寵物龜", "id": 717157, "predecessors": [{"name": "龟鳖目", "id": 75830}, {"name": "宠物", "id": 78144}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "抗真菌药物", "id": 1156704, "predecessors": [{"name": "真菌性疾病", "id": 1075769}, {"name": "医学", "id": 42370}], "successors": []}
+{"name": "抗真菌药物", "id": 1156704, "predecessors": [{"name": "真菌性疾病", "id": 1075769}, {"name": "传染病", "id": 44408}], "successors": []}

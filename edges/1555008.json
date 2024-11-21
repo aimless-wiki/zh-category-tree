@@ -1,1 +1,1 @@
-{"name": "石拱桥", "id": 1555008, "predecessors": [{"name": "几何形状", "id": 705292}, {"name": "材料", "id": 58876}], "successors": [{"name": "单孔石拱桥", "id": 8881763}]}
+{"name": "石拱桥", "id": 1555008, "predecessors": [{"name": "岩石", "id": 58945}], "successors": [{"name": "单孔石拱桥", "id": 8881763}]}

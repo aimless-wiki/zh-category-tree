@@ -1,1 +1,1 @@
-{"name": "湘江水系", "id": 193170, "predecessors": [{"name": "河流", "id": 46926}], "successors": [{"name": "湘江桥梁", "id": 390755}]}
+{"name": "湘江水系", "id": 193170, "predecessors": [{"name": "水體", "id": 77215}], "successors": [{"name": "湘江桥梁", "id": 390755}]}

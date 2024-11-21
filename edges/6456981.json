@@ -1,1 +1,1 @@
-{"name": "葬礼", "id": 6456981, "predecessors": [{"name": "喪葬", "id": 187380}, {"name": "儀式", "id": 206469}, {"name": "死亡", "id": 147558}], "successors": []}
+{"name": "葬礼", "id": 6456981, "predecessors": [{"name": "儀式", "id": 206469}], "successors": []}

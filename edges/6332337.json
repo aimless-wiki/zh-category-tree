@@ -1,1 +1,1 @@
-{"name": "Netflix使用者", "id": 6332337, "predecessors": [{"name": "视频点播订阅服务", "id": 6528885}, {"name": "维基人", "id": 93512}], "successors": []}
+{"name": "Netflix使用者", "id": 6332337, "predecessors": [{"name": "網路電視頻道", "id": 1201823}, {"name": "维基人", "id": 93512}], "successors": []}

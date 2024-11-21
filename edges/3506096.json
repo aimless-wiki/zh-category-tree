@@ -1,1 +1,1 @@
-{"name": "貨櫃輪", "id": 3506096, "predecessors": [{"name": "船舰类型", "id": 798142}, {"name": "維基百科管理", "id": 501839}], "successors": [{"name": "貨櫃船等級", "id": 7790864}]}
+{"name": "貨櫃輪", "id": 3506096, "predecessors": [{"name": "船舰类型", "id": 798142}, {"name": "船艦", "id": 321011}], "successors": [{"name": "貨櫃船等級", "id": 7790864}]}

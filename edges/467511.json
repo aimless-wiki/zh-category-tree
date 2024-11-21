@@ -1,1 +1,1 @@
-{"name": "海軍武器", "id": 467511, "predecessors": [{"name": "武器", "id": 39124}, {"name": "军事学", "id": 805048}], "successors": [{"name": "魚雷", "id": 338483}, {"name": "英國二戰驅逐艦", "id": 3335702}]}
+{"name": "海軍武器", "id": 467511, "predecessors": [{"name": "武器", "id": 39124}, {"name": "供應鏈管理", "id": 469766}], "successors": [{"name": "魚雷", "id": 338483}]}

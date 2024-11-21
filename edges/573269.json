@@ -1,1 +1,1 @@
-{"name": "音樂遊戲", "id": 573269, "predecessors": [{"name": "電子音樂", "id": 55512}, {"name": "娱乐", "id": 42321}, {"name": "人機互動", "id": 632385}], "successors": []}
+{"name": "音樂遊戲", "id": 573269, "predecessors": [{"name": "大眾媒體", "id": 58343}, {"name": "電子音樂", "id": 55512}, {"name": "人機互動", "id": 632385}], "successors": []}

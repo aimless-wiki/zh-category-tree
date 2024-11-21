@@ -1,1 +1,1 @@
-{"name": "互联网服务供应商", "id": 483553, "predecessors": [{"name": "通信公司", "id": 107437}, {"name": "互联网", "id": 321014}, {"name": "产业", "id": 58086}], "successors": []}
+{"name": "互联网服务供应商", "id": 483553, "predecessors": [{"name": "通信公司", "id": 107437}, {"name": "互联网", "id": 321014}, {"name": "企业类型", "id": 657151}], "successors": []}

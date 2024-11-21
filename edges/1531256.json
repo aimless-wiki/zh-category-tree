@@ -1,1 +1,1 @@
-{"name": "郵輪", "id": 1531256, "predecessors": [{"name": "船舰类型", "id": 798142}, {"name": "維基百科管理", "id": 501839}], "successors": [{"name": "鐵達尼號", "id": 3790573}]}
+{"name": "郵輪", "id": 1531256, "predecessors": [{"name": "船舰类型", "id": 798142}, {"name": "船艦", "id": 321011}], "successors": [{"name": "鐵達尼號", "id": 3790573}]}

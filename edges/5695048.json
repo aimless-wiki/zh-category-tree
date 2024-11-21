@@ -1,1 +1,1 @@
-{"name": "京成本線車站", "id": 5695048, "predecessors": [{"name": "日本都道府縣", "id": 1298197}, {"name": "人類行為", "id": 665955}], "successors": []}
+{"name": "京成本線車站", "id": 5695048, "predecessors": [{"name": "日本都道府縣", "id": 1298197}, {"name": "公共交通", "id": 80881}], "successors": []}

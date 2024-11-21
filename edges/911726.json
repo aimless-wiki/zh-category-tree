@@ -1,1 +1,1 @@
-{"name": "防腐剂", "id": 911726, "predecessors": [{"name": "食品保存", "id": 792941}, {"name": "食品添加剂", "id": 356850}, {"name": "材料", "id": 58876}, {"name": "微生物学", "id": 44407}], "successors": []}
+{"name": "防腐剂", "id": 911726, "predecessors": [{"name": "食品保存", "id": 792941}, {"name": "材料", "id": 58876}, {"name": "微生物学", "id": 44407}], "successors": []}

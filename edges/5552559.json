@@ -1,1 +1,1 @@
-{"name": "Google_Pixel", "id": 5552559, "predecessors": [{"name": "Android設備", "id": 1705917}, {"name": "智能手機系列", "id": 7437340}, {"name": "行動電話", "id": 65996}, {"name": "平板電腦", "id": 1196888}], "successors": []}
+{"name": "Google_Pixel", "id": 5552559, "predecessors": [{"name": "Android設備", "id": 1705917}, {"name": "智能手機系列", "id": 7437340}, {"name": "Google", "id": 87063}, {"name": "平板電腦", "id": 1196888}], "successors": []}

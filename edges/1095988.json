@@ -1,1 +1,1 @@
-{"name": "日语歌曲", "id": 1095988, "predecessors": [{"name": "日语", "id": 48003}, {"name": "日本文化", "id": 56543}], "successors": [{"name": "小室哲哉創作的歌曲", "id": 1629671}, {"name": "秋元康創作的歌曲", "id": 2867547}, {"name": "SUPER_EIGHT歌曲", "id": 1256407}]}
+{"name": "日语歌曲", "id": 1095988, "predecessors": [{"name": "声音", "id": 58289}, {"name": "日语", "id": 48003}], "successors": [{"name": "小室哲哉創作的歌曲", "id": 1629671}, {"name": "秋元康創作的歌曲", "id": 2867547}, {"name": "SUPER_EIGHT歌曲", "id": 1256407}]}

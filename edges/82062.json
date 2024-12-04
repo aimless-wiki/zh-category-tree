@@ -1,1 +1,1 @@
-{"name": "香港罪案", "id": 82062, "predecessors": [{"name": "香港法律", "id": 146266}, {"name": "司法", "id": 545519}], "successors": [{"name": "香港罪犯", "id": 136931}]}
+{"name": "香港罪案", "id": 82062, "predecessors": [{"name": "香港法律", "id": 146266}, {"name": "法律", "id": 52341}], "successors": [{"name": "香港罪犯", "id": 136931}]}

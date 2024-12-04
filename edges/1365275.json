@@ -1,1 +1,1 @@
-{"name": "日經平均指數", "id": 1365275, "predecessors": [{"name": "大阪府公司", "id": 1129428}, {"name": "股市", "id": 73573}], "successors": []}
+{"name": "日經平均指數", "id": 1365275, "predecessors": [{"name": "股市", "id": 73573}, {"name": "大阪市", "id": 585782}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "合唱歌曲", "id": 698056, "predecessors": [{"name": "声音", "id": 58289}], "successors": [{"name": "雙人合唱歌曲", "id": 6248506}]}
+{"name": "合唱歌曲", "id": 698056, "predecessors": [{"name": "歌唱", "id": 70660}, {"name": "協作", "id": 1244749}], "successors": [{"name": "雙人合唱歌曲", "id": 6248506}]}

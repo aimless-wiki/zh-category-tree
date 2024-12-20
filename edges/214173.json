@@ -1,1 +1,1 @@
-{"name": "日本电台", "id": 214173, "predecessors": [{"name": "网络", "id": 450000}, {"name": "虛構", "id": 69954}], "successors": [{"name": "NHK", "id": 584501}]}
+{"name": "日本电台", "id": 214173, "predecessors": [{"name": "广播", "id": 65119}, {"name": "文化", "id": 42322}], "successors": [{"name": "NHK", "id": 584501}]}

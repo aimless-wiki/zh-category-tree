@@ -1,1 +1,1 @@
-{"name": "进化过程", "id": 1544504, "predecessors": [{"name": "演化生物學", "id": 486399}, {"name": "生物信息學", "id": 190931}], "successors": []}
+{"name": "进化过程", "id": 1544504, "predecessors": [{"name": "生物信息學", "id": 190931}], "successors": [{"name": "基因工程", "id": 1923917}]}

@@ -1,1 +1,1 @@
-{"name": "膳食补充品", "id": 1518257, "predecessors": [{"name": "替代医学", "id": 951071}, {"name": "虛構", "id": 69954}], "successors": []}
+{"name": "膳食补充品", "id": 1518257, "predecessors": [{"name": "替代医学", "id": 951071}, {"name": "营养学", "id": 43815}, {"name": "虛構", "id": 69954}], "successors": []}

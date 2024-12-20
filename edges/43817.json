@@ -1,1 +1,1 @@
-{"name": "催化剂", "id": 43817, "predecessors": [{"name": "催化", "id": 898372}, {"name": "化学动力学", "id": 692615}], "successors": [{"name": "酶", "id": 43816}]}
+{"name": "催化剂", "id": 43817, "predecessors": [{"name": "催化", "id": 898372}, {"name": "化学动力学", "id": 692615}, {"name": "材料", "id": 58876}], "successors": [{"name": "酶", "id": 43816}]}

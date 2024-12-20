@@ -1,1 +1,1 @@
-{"name": "食用香精", "id": 1584158, "predecessors": [{"name": "人類行為", "id": 665955}], "successors": []}
+{"name": "食用香精", "id": 1584158, "predecessors": [{"name": "食品添加剂", "id": 356850}, {"name": "人類行為", "id": 665955}], "successors": []}

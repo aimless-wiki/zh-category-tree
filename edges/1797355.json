@@ -1,1 +1,1 @@
-{"name": "B_Zone單曲", "id": 1797355, "predecessors": [{"name": "日本唱片公司", "id": 917035}, {"name": "存储媒体", "id": 142380}, {"name": "声音", "id": 58289}], "successors": [{"name": "B'z歌曲", "id": 1370721}, {"name": "ZARD歌曲", "id": 1451136}, {"name": "倉木麻衣歌曲", "id": 1589492}]}
+{"name": "B_Zone單曲", "id": 1797355, "predecessors": [{"name": "日本媒體公司", "id": 489872}, {"name": "表演藝術", "id": 58285}, {"name": "存储媒体", "id": 142380}], "successors": [{"name": "B'z歌曲", "id": 1370721}, {"name": "ZARD歌曲", "id": 1451136}, {"name": "倉木麻衣歌曲", "id": 1589492}]}

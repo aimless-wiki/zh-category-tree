@@ -1,1 +1,1 @@
-{"name": "英國坦克", "id": 447503, "predecessors": [{"name": "供應鏈管理", "id": 469766}], "successors": [{"name": "英國二戰坦克", "id": 917724}]}
+{"name": "英國坦克", "id": 447503, "predecessors": [{"name": "英國陸軍裝備", "id": 3491659}, {"name": "坦克", "id": 180225}], "successors": [{"name": "英國二戰坦克", "id": 917724}]}

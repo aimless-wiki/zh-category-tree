@@ -1,1 +1,1 @@
-{"name": "韓國歌曲", "id": 4006249, "predecessors": [{"name": "虛構", "id": 69954}], "successors": [{"name": "HYBE單曲", "id": 7979032}, {"name": "東方神起歌曲", "id": 3811696}, {"name": "TWICE歌曲", "id": 6054433}, {"name": "Aespa歌曲", "id": 8112123}]}
+{"name": "韓國歌曲", "id": 4006249, "predecessors": [{"name": "表演藝術", "id": 58285}, {"name": "文化", "id": 42322}], "successors": [{"name": "HYBE單曲", "id": 7979032}, {"name": "東方神起歌曲", "id": 3811696}, {"name": "TWICE歌曲", "id": 6054433}, {"name": "Aespa歌曲", "id": 8112123}]}

@@ -1,1 +1,1 @@
-{"name": "大船渡線車站", "id": 5499788, "predecessors": [{"name": "日本國有鐵道廢站", "id": 4525198}, {"name": "公共交通", "id": 80881}], "successors": [{"name": "大船渡線BRT車站", "id": 7487778}]}
+{"name": "大船渡線車站", "id": 5499788, "predecessors": [{"name": "東日本旅客鐵道", "id": 306756}], "successors": [{"name": "大船渡線BRT車站", "id": 7487778}]}

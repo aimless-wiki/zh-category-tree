@@ -1,1 +1,1 @@
-{"name": "递归论", "id": 253084, "predecessors": [{"name": "數理邏輯", "id": 54297}, {"name": "算法", "id": 33832}], "successors": [{"name": "計算理論", "id": 54876}]}
+{"name": "递归论", "id": 253084, "predecessors": [{"name": "算法", "id": 33832}], "successors": [{"name": "計算理論", "id": 54876}]}

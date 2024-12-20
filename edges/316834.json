@@ -1,1 +1,1 @@
-{"name": "泌尿科疾病", "id": 316834, "predecessors": [{"name": "泌尿科", "id": 173360}, {"name": "器官", "id": 211796}], "successors": [{"name": "肾脏疾病", "id": 605655}]}
+{"name": "泌尿科疾病", "id": 316834, "predecessors": [{"name": "器官", "id": 211796}], "successors": [{"name": "肾脏疾病", "id": 605655}]}

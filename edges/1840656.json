@@ -1,1 +1,1 @@
-{"name": "饮酒文化", "id": 1840656, "predecessors": [{"name": "药物", "id": 50014}], "successors": []}
+{"name": "饮酒文化", "id": 1840656, "predecessors": [{"name": "文化", "id": 42322}, {"name": "娱乐", "id": 42321}, {"name": "药物", "id": 50014}], "successors": []}

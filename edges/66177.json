@@ -1,1 +1,1 @@
-{"name": "标准制订机构", "id": 66177, "predecessors": [{"name": "国际组织", "id": 42333}, {"name": "标准", "id": 66182}, {"name": "证件", "id": 78290}], "successors": [{"name": "IEC標準", "id": 1430779}]}
+{"name": "标准制订机构", "id": 66177, "predecessors": [{"name": "国际组织", "id": 42333}, {"name": "标准", "id": 66182}, {"name": "组织", "id": 42377}, {"name": "证件", "id": 78290}], "successors": []}

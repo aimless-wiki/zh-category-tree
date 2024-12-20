@@ -1,1 +1,1 @@
-{"name": "索尼手機", "id": 3222080, "predecessors": [{"name": "索尼", "id": 162194}], "successors": [{"name": "索尼愛立信手機", "id": 293942}]}
+{"name": "索尼手機", "id": 3222080, "predecessors": [{"name": "行動電話", "id": 65996}, {"name": "索尼", "id": 162194}], "successors": [{"name": "索尼愛立信手機", "id": 293942}]}

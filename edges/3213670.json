@@ -1,1 +1,1 @@
-{"name": "陶器", "id": 3213670, "predecessors": [{"name": "材料", "id": 58876}, {"name": "化学元素", "id": 320992}], "successors": []}
+{"name": "陶器", "id": 3213670, "predecessors": [{"name": "材料", "id": 58876}, {"name": "化学元素", "id": 320992}], "successors": [{"name": "紫砂壺藝匠", "id": 7419507}]}

@@ -1,1 +1,1 @@
-{"name": "外匯市場", "id": 168531, "predecessors": [{"name": "国际金融", "id": 168534}, {"name": "金融市场", "id": 168544}], "successors": []}
+{"name": "外匯市場", "id": 168531, "predecessors": [{"name": "国际金融", "id": 168534}, {"name": "金融市场", "id": 168544}], "successors": [{"name": "中国人民银行人物", "id": 5737421}]}

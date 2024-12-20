@@ -1,1 +1,1 @@
-{"name": "能源政策", "id": 569132, "predecessors": [{"name": "公共行政", "id": 513495}], "successors": [{"name": "節約能源", "id": 1143377}]}
+{"name": "能源政策", "id": 569132, "predecessors": [{"name": "能量", "id": 471895}, {"name": "公共行政", "id": 513495}], "successors": [{"name": "節約能源", "id": 1143377}]}

@@ -1,1 +1,1 @@
-{"name": "城市化", "id": 6969705, "predecessors": [{"name": "人口流動", "id": 493245}, {"name": "城市地理学", "id": 1554215}], "successors": [{"name": "城市规划", "id": 176897}]}
+{"name": "城市化", "id": 6969705, "predecessors": [{"name": "人口流動", "id": 493245}], "successors": [{"name": "城市规划", "id": 176897}]}

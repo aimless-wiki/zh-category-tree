@@ -1,1 +1,1 @@
-{"name": "鐵", "id": 443464, "predecessors": [{"name": "化学元素", "id": 320992}, {"name": "元素周期表", "id": 551528}], "successors": [{"name": "鐵化合物", "id": 589979}, {"name": "鋼", "id": 458975}]}
+{"name": "鐵", "id": 443464, "predecessors": [{"name": "化学元素", "id": 320992}, {"name": "元素周期表", "id": 551528}], "successors": [{"name": "鐵化合物", "id": 589979}]}

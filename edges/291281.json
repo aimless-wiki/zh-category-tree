@@ -1,1 +1,1 @@
-{"name": "线性滤波器", "id": 291281, "predecessors": [{"name": "信号处理", "id": 72436}], "successors": []}
+{"name": "线性滤波器", "id": 291281, "predecessors": [{"name": "控制论", "id": 72323}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "趣味數學", "id": 72853, "predecessors": [{"name": "文化", "id": 42322}, {"name": "流行文化", "id": 1022547}], "successors": [{"name": "數字相關的數列", "id": 84152}]}
+{"name": "趣味數學", "id": 72853, "predecessors": [{"name": "文化", "id": 42322}, {"name": "学术", "id": 58041}, {"name": "虛構", "id": 69954}], "successors": [{"name": "數字相關的數列", "id": 84152}]}

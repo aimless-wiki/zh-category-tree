@@ -1,1 +1,1 @@
-{"name": "曲藝", "id": 145284, "predecessors": [{"name": "東亞傳統", "id": 654430}, {"name": "表演藝術", "id": 58285}], "successors": [{"name": "相声演员", "id": 73454}]}
+{"name": "曲藝", "id": 145284, "predecessors": [{"name": "音樂類型", "id": 70662}, {"name": "表演藝術", "id": 58285}], "successors": [{"name": "相声演员", "id": 73454}]}

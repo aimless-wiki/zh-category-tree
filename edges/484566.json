@@ -1,1 +1,1 @@
-{"name": "紐約地鐵路線", "id": 484566, "predecessors": [{"name": "紐約都會區交通", "id": 345549}, {"name": "经济", "id": 42373}], "successors": []}
+{"name": "紐約地鐵路線", "id": 484566, "predecessors": [{"name": "紐約地鐵", "id": 373154}, {"name": "经济", "id": 42373}], "successors": []}
